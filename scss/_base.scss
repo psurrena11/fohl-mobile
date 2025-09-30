@@ -21,7 +21,10 @@ a {
     &:active {}
 }
 
-p {}
+p {
+    font-size: 1rem;
+    line-height: 1.6;
+}
 
 h1 {
     font-size:26px;
@@ -31,10 +34,13 @@ nav {
     display: grid;
     grid-template-columns: 1fr min-content;
     background-color: v.$light-grey;
+    border-bottom: 1px solid v.$med-grey;
     height: v.$sp_xl;
 
     .left {
         display: grid;
+        grid-template-columns: min-content min-content;
+        grid-gap: v.$sp_sm;
         align-items: center;
         padding: 0 0 0 v.$sp_sm;
     }
@@ -52,129 +58,135 @@ nav {
 
 #circles {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
     grid-gap: v.$sp_sm;
     padding: 5%;
 
     a.circle {
         display: grid;
         place-items: center;
+        font-size: 1.25em;
         background-color: v.$accent;
-        width: 60px;
-        height: 60px;
+        width: 80px;
+        height: 80px;
         border-radius: 50%;
         color: v.$white;
+        text-transform: uppercase;
 
         @include m.drop-shadow();
 
         &:hover {
+            box-shadow: none;
+        }
 
+        &:active {
+            // soon
         }
     }
 }
 
-/*
-.circles div {cursor:pointer;}			
-.circles div a.ui-link {color:#FFF!important; font-weight:300;} 
-.circles div:hover {background-color:#EEE;}
-.circles div:hover a.ui-link {color:#663399!important;}
-*/
-
 #product {
 
+    header {
+        display: grid;
+        grid-template-rows: repeat(3, min-content);
+        grid-gap: v.$sp_sm;
+        border-bottom: 1px solid v.$med-grey;
+        padding: 0 0 v.$sp_md;
+
+        .product-image {
+            text-align: center;
+
+            img {
+                width: 80%;
+            }
+        }
+
+        h1 {
+            font-size: 2em;
+            font-weight: 600;
+            margin: 0;
+        }
+
+        ul {
+            display: grid;
+            grid-template-columns: repeat(3, min-content);
+            grid-gap: v.$sp_sm;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+    }
+
+    content {
+
+        img {
+            width: 100%;
+        }
+    }
 }
-		
-		.product {width:100%; padding:71px 0 0 0;}
-		.product .product-image img {max-width:100%}
-		.product .product-content {padding:10px 20px; text-align:justify;}
 
-		.product .product-content .video iframe {width:300px; max-width:100%; height:225px;}
-		.product .product-content .stats {border-top:1px solid #666; border-bottom:1px solid #666; padding:5px 0; margin:5px 0;}
-		.product .product-content .stats ul {list-style:none; margin:0; padding:5px 0;}
-		.product .product-content .stats li {margin:0 0 5px 0;}
-		
-
-        /*
-		@media all and (max-width: 500px){
-			.header {height:70px; width:100%;}
-	
-			
-			.circles {max-width:100%; margin:70px 0 0 0; overflow:hidden; text-align:center;}		
-			.circles div {float:left; position:relative; text-align:center; width:70px; height:70px; margin:10px; border:2px solid #663399; border-radius:50%; box-shadow: 2px 2px 2px #999; background-color:#663399;}
-			.circles div a {position:absolute; font-size:27px; width:100%; height:100%; padding-top:27%; color:#FFF;}
-	
-		}
-		
-		@media all and (min-width: 501px) {
-			.header {height:70px; padding:0 20px; width:100%;}
-		
-				
-			.circles {max-width:100%; margin:70px 0 0 0; overflow:hidden; text-align:center; position:relative}		
-			.circles div {float:left; position:relative; text-align:center; width:140px; height:100px; padding:40px 0 0 0; margin:20px; border:2px solid #663399; border-radius:50%; box-shadow: 2px 2px 2px #999; background-color:#663399;}
-			.circles div a {font-size:50px; width:100%; margin-top:60px; height:100%; color:#FFF;}
-		}
-        */
-		
-
-
-
-
-//panel variables
+//panel variables - MOVE SOON
 $panel-top-gap: 60px;
 $transition-speed: 0.4s;
 
 
+// BG Overlay
 #panel-overlay {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.6);
-  
-  // Hidden by default
+  background-color: v.$bg-dark-transparent;  
   visibility: hidden;
   opacity: 0;
   transition: opacity $transition-speed ease, visibility 0s $transition-speed;
 }
 
-
-// The panel that slides up
+// Panel
 #sliding-panel {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  top: $panel-top-gap; // This creates the 60px space at the top!
-  overflow-y: auto;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: $panel-top-gap; 
+    overflow-y: auto;
+    background-color: v.$white;
+    color: v.$black;
+    padding: v.$sp_md;
+
+    @include m.drop-shadow;
   
-  background-color: white;
-  color: #333;
-  padding: 20px;
-  border-radius: 12px 12px 0 0;
-  box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.2);
-  
-  // Start off-screen at the bottom
-  transform: translateY(100%);
-  transition: transform $transition-speed ease-in-out;
+    // Start off-screen at the bottom
+    transform: translateY(100%);
+    transition: transform $transition-speed ease-in-out;
+
+
+    // The 'X' close button inside the panel
+    #top {
+        position: fixed;
+        top: 0;
+        left: 0;
+    }
+
+    #close-panel-btn {
+        position: absolute;
+        top: 15px;
+        right: 20px;
+        background: none;
+        border: none;
+        font-size: 28px;
+        line-height: 1;
+        cursor: pointer;
+        color: #888;
+        
+        &:hover {
+            color: #000;
+        }
+    }
 }
 
-// The 'X' close button inside the panel
-#close-panel-btn {
-  position: absolute;
-  top: 15px;
-  right: 20px;
-  background: none;
-  border: none;
-  font-size: 28px;
-  line-height: 1;
-  cursor: pointer;
-  color: #888;
-  
-  &:hover {
-    color: #000;
-  }
-}
 
 // --- ACTIVE STATE ---
 
