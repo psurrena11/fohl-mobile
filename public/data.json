@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "First Item",
+    "description": "This is the description for the very first item from our JSON file."
+  },
+  {
+    "id": 2,
+    "title": "Second Item",
+    "description": "Here we have the second item, demonstrating how to loop through data."
+  },
+  {
+    "id": 3,
+    "title": "Third Item",
+    "description": "And finally, the third item to complete our example list."
+  }
+]
