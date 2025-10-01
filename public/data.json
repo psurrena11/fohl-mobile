@@ -1,17 +1,32 @@
 [
   {
     "id": 1,
-    "title": "First Item",
-    "description": "This is the description for the very first item from our JSON file."
+    "exhibit-num": "a1",
+    "title": "Printrbot",
+    "company": "Printrbot",
+    "social": "@printrbot",
+    "buy": 1,
+    "img_illustration": "/img/products/illustration/printrbot.svg",
+    "description": "<p>Printrbot is a desktop 3D printer that can be assembled in a few hours, and can help you create all those extra things you need for your apartment.</p><p><img src='/img/products/photo/printrbot.png' alt='PrintrBot' /></p><p>The all-in-one 3D printer uses fused deposition modelling to produce plastic models of 3D objects. Users input a design on their computer, and the printer deposits layer upon layer of material until it replicates the object in its entirety.</p><p>The device is aimed at beginner home users through its small size and simple interface, enabling users to make just about anything they like, from iPad stands to home fixtures and jewelry.</p>"
   },
   {
     "id": 2,
-    "title": "Second Item",
-    "description": "Here we have the second item, demonstrating how to loop through data."
+    "exhibit-num": "a2",
+    "title": "Aquafarm",
+    "company": "bttrventures",
+    "social": "@printrbot",
+    "buy": 1,
+    "img_illustration": "/img/products/illustration/aquafarm.svg",
+    "description": "<p>Designers Nikhil Arora and Alejandro Velez have developed a home growing solution called the Home Aquaponics Kit. The closed-loop, table-top ecosystem consists of a fish tank with a full hydroponic garden suspended above it. The self-cleaning tank relies on the symbiotic relationship of fish and plants to provide nutrients and filtration. The closed system provides a complete and easy solution for home gardeners. The aquaponic garden can be used to grow beans, basil, thyme, baby greens, oregano, mint, parsley, spinach, and other fresh produce at home.</p>"
   },
   {
     "id": 3,
-    "title": "Third Item",
-    "description": "And finally, the third item to complete our example list."
+    "exhibit-num": "a3",
+    "title": "Little Printer",
+    "company": "berg",
+    "social": "@berg",
+    "buy": 1,
+    "img_illustration": "/img/products/illustration/little-printer.svg",
+    "description": "<p>And finally, the third item to complete our example list.<p>"
   }
 ]

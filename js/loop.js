@@ -25,7 +25,7 @@ async function loadItems() {
       
       // Use template literals to create the inner HTML
       itemElement.innerHTML = `
-        <h2>${item.title}</h2>
+        <h1>${item.title}</h1>
         <p>${item.description}</p>
       `;
       
