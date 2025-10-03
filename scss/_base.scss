@@ -45,7 +45,7 @@ nav {
     display: grid;
     grid-template-columns: 1fr min-content;
     background-color: v.$light-grey;
-    border-bottom: 1px solid v.$med-grey;
+   //border-bottom: 1px solid v.$med-grey;
     height: v.$sp_xl;
     z-index: 10;
 
@@ -75,46 +75,58 @@ main {
 #circle-nav {
     position: fixed;
     top: 60px;
-    display: grid;
-    grid-auto-flow: column;
-    grid-gap: v.$sp_md;
-    place-items: center;
+    padding: v.$sp_md;
     background-color: v.$very-light-grey;
-    height: 50px;
-    padding: 0 0 0 5%;
-    overflow-x: auto;
-    white-space: nowrap;
     z-index: 10;
+    
+    .category-links {
+        display: grid;
+        grid-auto-flow: column;
+        grid-template-columns: max-content min-content max-content min-content;
+        grid-gap: v.$sp_md;
+        place-items: center;
 
-    -webkit-overflow-scrolling: touch;
-				
-    &::-webkit-scrollbar {
-        display: none;
-    }
+        -webkit-overflow-scrolling: touch;
+        
+        &::-webkit-scrollbar {
+            display: none;
+        }
 
-    a {
-        display: inline-block;
-        font-size: 1.5em;
+        a {
+            display: inline-block;
+            font-size: 1.35em;
+       
 
-        &:hover {
+            &:hover {
+                color: v.$accent;
+            }
+
+            &.active {
+                color: v.$accent
+            }
+        }
+
+        .bullet {
+            display: grid;
+            grid-auto-flow: row;
+   
+
+            font-size: 0.5em;
             color: v.$accent;
         }
-
-        &:active {
-            color: v.$accent
-        }
     }
+    
+    //@include m.drop-shadow($x: 0px, $y: 4px, $blur: 5px, $spread: 0px, $color: rgba(0, 0, 0, 0.03));
 
-    .bullet {
-        font-size: 0.5em;
-        color: v.$accent;
+    .scroll-shadow {
+        @include m.drop-shadow($x: 0px, $y: 4px, $blur: 5px, $spread: 0px, $color: rgba(0, 0, 0, 0.05));
     }
 }
 
 #circles {
     z-index: -1;
-    padding: 5%;
-    margin: 100px 0 0;
+    padding: 0 5%;
+    margin: 120px 0 0;
     
     .circle-group {
         display: grid;
@@ -143,6 +155,11 @@ main {
                 // soon
             }
         }
+    }
+    
+    hr {    
+        height: 1px;
+        border-color: v.$light-grey;
     }
 }
 

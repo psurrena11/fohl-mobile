@@ -47,16 +47,38 @@ document.addEventListener('DOMContentLoaded', () => {
     }, {});
 
     // Define the desired order of categories for display
-    const categoryOrder = ['adaptive', 'on-demand', 'equilibrum'];
+    const categoryOrder = ['adaptive', 'on-demand', 'equilibrium'];
 
     // Generate HTML for each group in the specified order
     categoryOrder.forEach(category => {
       if (groupedData[category]) {
+
+        // --- START: ADDED LOGIC ---
+        // If the category is on-demand or equilibrium, add an <hr>
+        if (category === 'on-demand' || category === 'equilibrium') {
+          const hr = document.createElement('hr');
+          circlesContainer.appendChild(hr);
+        }
+        // --- END: ADDED LOGIC ---
+
         // Create a header for the category
-        const anchor = document.createElement('span');
-        //anchor.textContent = category.charAt(0).toUpperCase() + category.slice(1);
-        anchor.id = category.toLowerCase();
-        circlesContainer.appendChild(anchor);
+        /*
+        const header = document.createElement('h2');
+        header.textContent = category.charAt(0).toUpperCase() + category.slice(1);
+        header.className = 'category-header';
+        circlesContainer.appendChild(header);
+        */
+
+        const description = document.createElement('p');
+        if (category === 'adaptive') {
+          description.textContent = 'Four key trends are driving the development of highly configurable homes, which use customizable solutions to adapt to the flexible demands of urban lifestyles.';
+        } else if (category === 'on-demand') {
+            description.textContent = 'Products available whenever you need them.';
+        } else if (category === 'equilibrium') {
+            description.textContent = 'Products designed for balance and harmony.';
+        }
+        description.className = 'category-description';
+        circlesContainer.appendChild(description);
 
         // Create a container to hold the circles for this group
         const groupContainer = document.createElement('div');
