@@ -30,19 +30,52 @@ document.addEventListener('DOMContentLoaded', () => {
   /**
    * Creates the circle links dynamically from the fetched data. 
    */
+/**
+   * Creates the circle links dynamically from the fetched data, grouped by category.
+   */
   function generateCircles() {
     circlesContainer.innerHTML = ''; // Clear existing content
-    itemsData.forEach(item => {
-      const circle = document.createElement('a');
-      circle.className = 'circle';
-      circle.href = '#';
-      // Use the exhibit-num for the display text, converted to uppercase
-      circle.textContent = item['exhibit-num'].toUpperCase();
-      // Store the exhibit number in a data attribute for easy access
-      circle.dataset.exhibit = item['exhibit-num'];
 
-      circle.addEventListener('click', handleCircleClick);
-      circlesContainer.appendChild(circle);
+    // Group items by category
+    const groupedData = itemsData.reduce((acc, item) => {
+      const category = item.category || 'uncategorized';
+      if (!acc[category]) {
+        acc[category] = [];
+      }
+      acc[category].push(item);
+      return acc;
+    }, {});
+
+    // Define the desired order of categories for display
+    const categoryOrder = ['adaptive', 'on-demand', 'equilibrium'];
+
+    // Generate HTML for each group in the specified order
+    categoryOrder.forEach(category => {
+      if (groupedData[category]) {
+        // Create a header for the category
+        const header = document.createElement('h2');
+        header.textContent = category.charAt(0).toUpperCase() + category.slice(1);
+        header.className = 'category-header';
+        circlesContainer.appendChild(header);
+
+        // Create a container to hold the circles for this group
+        const groupContainer = document.createElement('div');
+        groupContainer.className = 'circle-group';
+
+        // Create circles for each item in the current category
+        groupedData[category].forEach(item => {
+          const circle = document.createElement('a');
+          circle.className = 'circle';
+          circle.href = '#';
+          circle.textContent = item['exhibit-num'].toUpperCase();
+          circle.dataset.exhibit = item['exhibit-num'];
+
+          circle.addEventListener('click', handleCircleClick);
+          groupContainer.appendChild(circle);
+        });
+
+        circlesContainer.appendChild(groupContainer);
+      }
     });
   }
 
