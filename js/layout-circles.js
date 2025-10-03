@@ -47,16 +47,16 @@ document.addEventListener('DOMContentLoaded', () => {
     }, {});
 
     // Define the desired order of categories for display
-    const categoryOrder = ['adaptive', 'on-demand', 'equilibrium'];
+    const categoryOrder = ['adaptive', 'on-demand', 'equilibrum'];
 
     // Generate HTML for each group in the specified order
     categoryOrder.forEach(category => {
       if (groupedData[category]) {
         // Create a header for the category
-        const header = document.createElement('h2');
-        header.textContent = category.charAt(0).toUpperCase() + category.slice(1);
-        header.className = 'category-header';
-        circlesContainer.appendChild(header);
+        const anchor = document.createElement('span');
+        //anchor.textContent = category.charAt(0).toUpperCase() + category.slice(1);
+        anchor.id = category.toLowerCase();
+        circlesContainer.appendChild(anchor);
 
         // Create a container to hold the circles for this group
         const groupContainer = document.createElement('div');

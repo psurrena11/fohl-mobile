@@ -27,15 +27,27 @@ p {
 }
 
 h1 {
-    font-size:26px;
+    font-size:1.625rem;
+}
+
+h2 {
+    font-size:1.35rem;
+    font-weight: 500;
+    color: v.$black;
+    text-transform: uppercase;
 }
 
 nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
     display: grid;
     grid-template-columns: 1fr min-content;
     background-color: v.$light-grey;
     border-bottom: 1px solid v.$med-grey;
     height: v.$sp_xl;
+    z-index: 10;
 
     .left {
         display: grid;
@@ -56,31 +68,80 @@ nav {
     }
 }
 
-#circles {
+main {
+    position: relative;
+}
+
+#circle-nav {
+    position: fixed;
+    top: 60px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
-    grid-gap: v.$sp_sm;
-    padding: 5%;
+    grid-auto-flow: column;
+    grid-gap: v.$sp_md;
+    place-items: center;
+    background-color: v.$very-light-grey;
+    height: 50px;
+    padding: 0 0 0 5%;
+    overflow-x: auto;
+    white-space: nowrap;
+    z-index: 10;
 
-    a.circle {
-        display: grid;
-        place-items: center;
-        font-size: 1.25em;
-        background-color: v.$accent;
-        width: 80px;
-        height: 80px;
-        border-radius: 50%;
-        color: v.$white;
-        text-transform: uppercase;
+    -webkit-overflow-scrolling: touch;
+				
+    &::-webkit-scrollbar {
+        display: none;
+    }
 
-        @include m.drop-shadow();
+    a {
+        display: inline-block;
+        font-size: 1.5em;
 
         &:hover {
-            box-shadow: none;
+            color: v.$accent;
         }
 
         &:active {
-            // soon
+            color: v.$accent
+        }
+    }
+
+    .bullet {
+        font-size: 0.5em;
+        color: v.$accent;
+    }
+}
+
+#circles {
+    z-index: -1;
+    padding: 5%;
+    margin: 100px 0 0;
+    
+    .circle-group {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+        grid-gap: v.$sp_sm;
+        place-items: center;
+
+        a.circle {
+            display: grid;
+            place-items: center;
+            font-size: 1.25em;
+            background-color: v.$accent;
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            color: v.$white;
+            text-transform: uppercase;
+
+            @include m.drop-shadow();
+
+            &:hover {
+                box-shadow: none;
+            }
+
+            &:active {
+                // soon
+            }
         }
     }
 }
