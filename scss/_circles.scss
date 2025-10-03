@@ -1,0 +1,93 @@
+@use "variables" as v;
+@use "mixins" as m;
+
+#circle-nav {
+    position: fixed;
+    top: 60px;
+    padding: v.$sp_md;
+    background-color: v.$very-light-grey;
+    z-index: 10;
+    
+    .category-links {
+        display: grid;
+        grid-auto-flow: column;
+        grid-template-columns: max-content min-content max-content min-content;
+        grid-gap: v.$sp_md;
+        place-items: center;
+
+        -webkit-overflow-scrolling: touch;
+        
+        &::-webkit-scrollbar {
+            display: none;
+        }
+
+        a {
+            display: inline-block;
+            font-size: 1.35em;
+       
+
+            &:hover {
+                color: v.$accent;
+            }
+
+            &.active {
+                color: v.$accent
+            }
+        }
+
+        .bullet {
+            display: grid;
+            grid-auto-flow: row;
+   
+
+            font-size: 0.5em;
+            color: v.$accent;
+        }
+    }
+    
+    //@include m.drop-shadow($x: 0px, $y: 4px, $blur: 5px, $spread: 0px, $color: rgba(0, 0, 0, 0.03));
+
+    .scroll-shadow {
+        @include m.drop-shadow($x: 0px, $y: 4px, $blur: 5px, $spread: 0px, $color: rgba(0, 0, 0, 0.05));
+    }
+}
+
+#circles {
+    z-index: -1;
+    padding: 0 5%;
+    margin: 120px 0 0;
+    
+    .circle-group {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+        grid-gap: v.$sp_md;
+        place-items: center;
+
+        a.circle {
+            display: grid;
+            place-items: center;
+            font-size: 1.25em;
+            background-color: v.$accent;
+            width: 90px;
+            height: 90px;
+            border-radius: 50%;
+            color: v.$white;
+            text-transform: uppercase;
+
+            @include m.drop-shadow();
+
+            &:hover {
+                box-shadow: none;
+            }
+
+            &:active {
+                // soon
+            }
+        }
+    }
+    
+    hr {    
+        height: 1px;
+        border-color: v.$light-grey;
+    }
+}
