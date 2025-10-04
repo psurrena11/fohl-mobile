@@ -20,7 +20,8 @@
     "social": "psfk.com/39w",
     "description": "<p>This device monitors your environment, temperature preferences, and various coming and goings to optimize heating and cooling.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/nest-thermostat.svg"
+    "img_illustration": "/img/products/illustration/nest-thermostat.svg",
+    "img_product": "/img/products/photo/nest-thermostat.jpg"
   },
   {
     "id": 3,
@@ -31,7 +32,8 @@
     "social": "psfk.com/a3",
     "description": "<p>This foldable full-size kayak makes it easy to get outdoors without comprimising your living space as it also comes with a light-weight carry case.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/oru-kayak.svg"
+    "img_illustration": "/img/products/illustration/oru-kayak.svg",
+    "img_product": "/img/products/photo/oru-kayak.jpg"
   },
   {
     "id": 4,
@@ -42,7 +44,8 @@
     "social": "psfk.com/a4",
     "description": "<p>This urban bicycle by Schindelhauer has hinged bars and pedals to reduce its storage footprint within any living space.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/thinbike.svg"
+    "img_illustration": "/img/products/illustration/thinbike.svg",
+    "img_product": "/img/products/photo/thinbike.jpg"
   },
   {
     "id": 5,
@@ -53,7 +56,8 @@
     "social": "psfk.com/3a0",
     "description": "<p>Flip it over or tuck it under, this modular shelf system from AndViceVersa can hold your books, coats, even bicycles.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/fusillo-wall-shelf.svg"
+    "img_illustration": "/img/products/illustration/fusillo-wall-shelf.svg",
+    "img_product": "/img/products/photo/fusillo-wall-shelf.jpg"
   },
   {
     "id": 6,
@@ -64,7 +68,8 @@
     "social": "psfk.com/a6",
     "description": "<p>These lighweight folding chairs from Folditure are designed to easily stack, hang, and store.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/tilt-chair.svg"
+    "img_illustration": "/img/products/illustration/tilt-chair.svg",
+    "img_product": "/img/products/photo/tilt-chair.jpg"
   },
   {
     "id": 7,
@@ -75,7 +80,8 @@
     "social": "psfk.com/a7",
     "description": "<p>There when you need it, gone when you don't: a Folditure produced table that reduces down to 3/4 inch thick board.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/cricket-side-table.svg"
+    "img_illustration": "/img/products/illustration/cricket-side-table.svg",
+    "img_product": "/img/products/photo/cricket-side-table.jpg"
   },
   {
     "id": 8,
@@ -86,7 +92,8 @@
     "social": "psfk.com/a8",
     "description": "<p>These easily assembled tables and chairs from Studio Grom can be stored flat along a wall-mounted peg rail, to save space eand provide an aesthetic wall installation.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/peg-furniture-system.svg"
+    "img_illustration": "/img/products/illustration/peg-furniture-system.svg",
+    "img_product": "/img/products/photo/peg-furniture-system.jpg"
   },
   {
     "id": 9,
@@ -97,7 +104,8 @@
     "social": "psfk.com/a9",
     "description": "<p>Control your home electronics and lights even when you're away. Turn it on, turn it off, put it on a schedule—all from your smartphone</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/belkin-wemo.svg"
+    "img_illustration": "/img/products/illustration/belkin-wemo.svg",
+    "img_product": "/img/products/photo/belkin-wemo.jpg"
   },
   {
     "id": 10,
@@ -108,7 +116,8 @@
     "social": "psfk.com/a10",
     "description": "<p>Turn these colorful modular soft blocks into beds, sofas, tables, benches, or shelves to suit any mood or space requirement.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/zig-sofa.svg"
+    "img_illustration": "/img/products/illustration/zig-sofa.svg",
+    "img_product": "/img/products/photo/zig-sofa.jpg"
   },
   {
     "id": 11,
@@ -119,7 +128,8 @@
     "social": "psfk.com/a11",
     "description": "<p>Set the mood with these multi-color LED bulbs that are controlled via your smartphone.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/philips-hue.svg"
+    "img_illustration": "/img/products/illustration/philips-hue.svg",
+    "img_product": "/img/products/photo/philips-hue.jpg"
   },
   {
     "id": 12,
@@ -130,7 +140,8 @@
     "social": "psfk.com/a12",
     "description": "<p>Set up your work space for a variety of tasks by rearranging the panels in this customizable desktop.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/adaptable.svg"
+    "img_illustration": "/img/products/illustration/adaptable.svg",
+    "img_product": "/img/products/photo/adaptable.jpg"
   },
   {
     "id": 13,
@@ -141,7 +152,8 @@
     "social": "psfk.com/a13",
     "description": "<p>Get a text message when your milk goes bad or is simply running low with this sensor-enabled jug being considered for production by Quirky.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/milkmaid-smart-jug.svg"
+    "img_illustration": "/img/products/illustration/milkmaid-smart-jug.svg",
+    "img_product": "/img/products/photo/milkmaid-smart-jug.jpg"
   },
   {
     "id": 14,
@@ -152,7 +164,8 @@
     "social": "psfk.com/a14",
     "description": "<p>This wall-mounted desk is designed to be used while standing to reduce the negative effects that sitting can have on your health.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/vurv-wall-decor.svg"
+    "img_illustration": "/img/products/illustration/vurv-wall-decor.svg",
+    "img_product": "/img/products/photo/vurv-wall-decor.jpg"
   },
   {
     "id": 15,
@@ -163,7 +176,8 @@
     "social": "psfk.com/a15",
     "description": "<p>These wireless sensor boxes monitor temperature, humidity, noise, and air quality levels in indoor spaces, and send custom data reports.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/cube-sensors.svg"
+    "img_illustration": "/img/products/illustration/cube-sensors.svg",
+    "img_product": "/img/products/photo/cube-sensors.jpg"
   },
   {
     "id": 16,
@@ -174,7 +188,8 @@
     "social": "psfk.com/v9e",
     "description": "<p>Shift from desktop to easel with this convertible wooden table from Lenovo.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/at-um-table.svg"
+    "img_illustration": "/img/products/illustration/at-um-table.svg",
+    "img_product": "/img/products/photo/at-um-table.jpg"
   },
   {
     "id": 17,
@@ -185,7 +200,8 @@
     "social": "psfk.com/a17",
     "description": "<p>Wired home security system that keeps an eye on your home using a sleek, easy-to-use interface.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/scout-alarm.svg"
+    "img_illustration": "/img/products/illustration/scout-alarm.svg",
+    "img_product": "/img/products/photo/scout-alarm.jpg"
   },
   {
     "id": 18,
@@ -196,7 +212,8 @@
     "social": "psfk.com/a18",
     "description": "<p>Divide up large spaces with unique shapes with this system of perforated panels designed by Moorhead & Moorhead</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/modular-screen.svg"
+    "img_illustration": "/img/products/illustration/modular-screen.svg",
+    "img_product": "/img/products/photo/modular-screen.jpg"
   },
   {
     "id": 19,
@@ -207,7 +224,8 @@
     "social": "psfk.com/a19",
     "description": "<p>Go from work to sleep in a single movement with this transformable desk-bed from Resource Furniture that tucks away to become a functioning surface during the day.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/ulisse-desk-bed.svg"
+    "img_illustration": "/img/products/illustration/ulisse-desk-bed.svg",
+    "img_product": "/img/products/photo/ulisse-desk-bed.jpg"
   },
   {
     "id": 20,
@@ -218,7 +236,8 @@
     "social": "psfk.com/a20",
     "description": "<p>Resource Furniture's space-saving ottoman provides seating for up to five, with removable padded sides that can attach to one of four bases nedted inside the structure.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/cubista-ottoman.svg"
+    "img_illustration": "/img/products/illustration/cubista-ottoman.svg",
+    "img_product": "/img/products/photo/cubista-ottoman.jpg"  
   },
   {
     "id": 21,
@@ -229,7 +248,8 @@
     "social": "psfk.com/a21",
     "description": "<p>The collapsible frame of this table from Resource Furniture fits all your dining needs, from Thanksgiving with family to a quiet meal for two.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/goliath-table.svg"
+    "img_illustration": "/img/products/illustration/goliath-table.svg",
+    "img_product": "/img/products/photo/goliath-table.jpg"
   },
   {
     "id": 22,
@@ -240,7 +260,8 @@
     "social": "psfk.com/a22",
     "description": "<p>When folded for storage, these sleek chairs from Resource Furniture only measure two inches deep, allowing you to keep  plenty on hand to accommodate any sized dinner party.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/pocket-chair.svg"
+    "img_illustration": "/img/products/illustration/pocket-chair.svg",
+    "img_product": "/img/products/photo/pocket-chair.jpg"
   },
   {
     "id": 23,
@@ -251,7 +272,8 @@
     "social": "psfk.com/a23",
     "description": "<p>Catch forty winks while pulling an all-nighter with this transformable space-saving, sleep-saving desk-bed from Sutdio NL.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/life-desk-bed.svg"
+    "img_illustration": "/img/products/illustration/life-desk-bed.svg",
+    "img_product": "/img/products/photo/life-desk-bed.jpg"
   },
   {
     "id": 24,
@@ -262,7 +284,8 @@
     "social": "psfk.com/d1",
     "description": "<p>A luxury subscription service that delivers curated products and experiences directly to your door. The latest vollume of home decor items has been curated by design guru The Selby.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/selby.svg"
+    "img_illustration": "/img/products/illustration/selby.svg",
+    "img_product": "/img/products/photo/selby.jpg"
   },
   {
     "id": 25,
@@ -273,7 +296,8 @@
     "social": "psfk.com/d2",
     "description": "<p>Refresh your walls every six months with this art subscription service that rents out original works from contemporary artists.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/get-art-up.svg"
+    "img_illustration": "/img/products/illustration/get-art-up.svg",
+    "img_product": "/img/products/photo/get-art-up.jpg"
   },
   {
     "id": 26,
@@ -284,7 +308,8 @@
     "social": "psfk.com/d3",
     "description": "<p>Manage work, social lives, and meal preparation with boxes of freash, pre-measured ingredients that arrive at your doorstep, along with recipes for healthy dishes.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/hello-fresh-delivery.svg"
+    "img_illustration": "/img/products/illustration/hello-fresh-delivery.svg",
+    "img_product": "/img/products/photo/hello-fresh-delivery.jpg"
   },
   {
     "id": 27,
@@ -295,7 +320,8 @@
     "social": "psfk.com/d4",
     "description": "<p>Bring nightlife home with this monthly cocktail subscription service.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/julibox.svg"
+    "img_illustration": "/img/products/illustration/julibox.svg",
+    "img_product": "/img/products/photo/julibox.jpg"
   },
   {
     "id": 28,
@@ -306,7 +332,8 @@
     "social": "psfk.com/d5",
     "description": "<p>Tailored reading lists created from an hour-long consultation with an artist, novelist, and bookstore owner.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/individual-bibliotherapy.svg"
+    "img_illustration": "/img/products/illustration/individual-bibliotherapy.svg",
+    "img_product": "/img/products/photo/individual-bibliotherapy.jpg"
   },
   {
     "id": 29,
@@ -317,7 +344,8 @@
     "social": "psfk.com/d6",
     "description": "<p>Bring the best beans from roasters around the globe to your doorstep each month.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/craft-coffee-subscription.svg"
+    "img_illustration": "/img/products/illustration/craft-coffee-subscription.svg",
+    "img_product": "/img/products/photo/craft-coffee-subscription.jpg"
   },
   {
     "id": 30,
@@ -327,7 +355,8 @@
     "social": "psfk.com/d7",
     "description": "<p>These 177 identical oak building blocks concepted by designer David Graas can be screwed together to make almost anything.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/everything-but-the-manual.svg"
+    "img_illustration": "/img/products/illustration/everything-but-the-manual.svg",
+    "img_product": "/img/products/photo/everything-but-the-manual.jpg"
   },
   {
     "id": 31,
@@ -349,7 +378,8 @@
     "social": "psfk.com/d9",
     "description": "<p>Watch any mobile device or somputer content on your TV with this wifi-enabled dongle that allows for easy sharing.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/plair.svg"
+    "img_illustration": "/img/products/illustration/plair.svg",
+    "img_product": "/img/products/photo/plair.jpg"
   },
   {
     "id": 33,
@@ -360,7 +390,8 @@
     "social": "psfk.com/d10",
     "description": "<p>Easy-to-use desktop 3D printer that could help you create all those extra things you need for your apartment.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/printrbot.svg"
+    "img_illustration": "/img/products/illustration/printrbot.svg",
+    "img_product": "/img/products/photo/printrbot.jpg"
   },
   {
     "id": 34,
@@ -371,7 +402,8 @@
     "social": "psfk.com/d11",
     "description": "<p>Place any physical object onthis 3D scanner and watch it take shape on your computer screen.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/matterform.svg"
+    "img_illustration": "/img/products/illustration/matterform.svg",
+    "img_product": "/img/products/photo/matterform.jpg"
   },
   {
     "id": 35,
@@ -382,7 +414,8 @@
     "social": "psfk.com/d12",
     "description": "<p>Need a light fixture built? WunWun finds people who will come t your home an do it for you.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/wunwun.svg"
+    "img_illustration": "/img/products/illustration/wunwun.svg",
+    "img_product": "/img/products/photo/wunwun.jpg"
   },
   {
     "id": 36,
@@ -393,7 +426,8 @@
     "social": "psfk.com/d13",
     "description": "<p>This instructional kit from TechnologyWillSaveUs helps you build interactive electronic objects for your home.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/arduino-starter-kit.svg"
+    "img_illustration": "/img/products/illustration/arduino-starter-kit.svg",
+    "img_product": "/img/products/photo/arduino-starter-kit.jpg"
   },
   {
     "id": 37,
@@ -404,7 +438,8 @@
     "social": "psfk.com/3cd",
     "description": "<p>Turn anything  from a cereal box to a takeout container into a speaker with a DIY kit from TechnologyWillSaveUs that includes a custom amplifier and all the necessary electronic compoonents.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/diy-speaker.svg"
+    "img_illustration": "/img/products/illustration/diy-speaker.svg",
+    "img_product": "/img/products/photo/diy-speaker.jpg"
   },
   {
     "id": 38,
@@ -415,7 +450,8 @@
     "social": "psfk.com/va9",
     "description": "<p>This desktop printing device from Berg generates receipt-size newspapers with personal updates, fun facts, and puzzles throughout the day.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/little-printer.svg"
+    "img_illustration": "/img/products/illustration/little-printer.svg",
+    "img_product": "/img/products/photo/little-printer.jpg"
   },
   {
     "id": 39,
@@ -426,7 +462,9 @@
     "social": "psfk.com/d16",
     "description": "<p>Call on your neighbors to help pick up last-minute groceries like fresh milk and eggs with this community-based shopping service that charges a small fee.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/milk-please.svg"
+    "img_illustration": "/img/products/illustration/milk-please.svg",
+    "img_product": "/img/products/photo/milk-please.jpg"
+  },
   },
   {
     "id": 40,
@@ -437,7 +475,8 @@
     "social": "psfk.com/d17",
     "description": "<p>This high-res, 5200 lumens projector can make your favorite movies and TV life sized. Suitable for both light and dark environments.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/sony-projector.svg"
+    "img_illustration": "/img/products/illustration/sony-projector.svg",
+    "img_product": "/img/products/photo/sony-projector.jpg"
   },
   {
     "id": 41,
@@ -448,7 +487,8 @@
     "social": "psfk.com/d18",
     "description": "<p>Enjoy your music in any room with this Bluetooth speaker that also acts as a speaker phone for work meetings at home.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/jawbone-jambox.svg"
+    "img_illustration": "/img/products/illustration/jawbone-jambox.svg",
+    "img_product": "/img/products/photo/jawbone-jambox.jpg"
   },
   {
     "id": 42,
@@ -459,7 +499,8 @@
     "social": "psfk.com/vad",
     "description": "<p>The next-generation set-top box combines TV, DVR, VOD, and streaming servcies all through one sleek interface, and comes with a pebble-like touch pad.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/fan-tv.svg"
+    "img_illustration": "/img/products/illustration/fan-tv.svg",
+    "img_product": "/img/products/photo/fan-tv.jpg"
   },
   {
     "id": 43,
@@ -470,7 +511,8 @@
     "social": "psfk.com/e1",
     "description": "<p>Grow flowers, vegetables and herbs without cutting into your social life. These sensor-embedded pots tend to your plants' every need, even ensuring there's enough water.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/click-and-grow.svg"
+    "img_illustration": "/img/products/illustration/click-and-grow.svg",
+    "img_product": "/img/products/photo/click-and-grow.jpg"
   },
   {
     "id": 44,
@@ -481,7 +523,8 @@
     "social": "psfk.com/e2",
     "description": "<p>This organic-shaped lamp from Luceplan is made with sound absorbingn foam and fabrics to help muffle ambient noise and create peaceful environments.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/petale-lamp.svg"
+    "img_illustration": "/img/products/illustration/petale-lamp.svg",
+    "img_product": "/img/products/photo/petale-lamp.jpg"
   },
   {
     "id": 45,
@@ -504,7 +547,8 @@
     "social": "psfk.com/e4",
     "description": "<p>This WiFi-enabled sensor measures soil, moisture, sunlight intensity, temperature and fertilizer needs to keep your plants extra green.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/koubachi-plant-monitor.svg"
+    "img_illustration": "/img/products/illustration/koubachi-plant-monitor.svg",
+    "img_product": "/img/products/photo/koubachi-plant-monitor.jpg"
   },
   {
     "id": 47,
@@ -515,7 +559,8 @@
     "social": "psfk.com/e5",
     "description": "<p>WiFi-connected scale helps you track your weight, BMI, and body fat over time automatically sending results to a digital dashboard.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/smart-body-analyzer-scale.svg"
+    "img_illustration": "/img/products/illustration/smart-body-analyzer-scale.svg",
+    "img_product": "/img/products/photo/smart-body-analyzer-scale.jpg"
   },
   {
     "id": 48,
@@ -526,7 +571,8 @@
     "social": "psfk.com/e6",
     "description": "<p>Arm cuff syncs with a mobile device to help you monitor your health and stress-levels at home.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/withings-pressure-monitor.svg"
+    "img_illustration": "/img/products/illustration/withings-pressure-monitor.svg",
+    "img_product": "/img/products/photo/withings-pressure-monitor.jpg"
   },
   {
     "id": 49,
@@ -537,7 +583,8 @@
     "social": "psfk.com/e7",
     "description": "<p>Track your activity levels and sleep patterns with this writband that logs all pertinent data in a connect smartphone app.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/jawbone-up.svg"
+    "img_illustration": "/img/products/illustration/jawbone-up.svg",
+    "img_product": "/img/products/photo/jawbone-up.jpg"
   },
   {
     "id": 50,
@@ -548,7 +595,8 @@
     "social": "psfk.com/e8",
     "description": "<p>A modular, wall-mounted system with magnetic pots, which can be used for vertical gardening or small space organization.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/urbio-wall-storage-system.svg"
+    "img_illustration": "/img/products/illustration/urbio-wall-storage-system.svg",
+    "img_product": "/img/products/photo/urbio-wall-storage-system.jpg"
   },
   {
     "id": 51,
@@ -559,7 +607,8 @@
     "social": "psfk.com/e9",
     "description": "<p>This mirror prototype by eletrical engineer Ming-Zher Poh measures your heartrate as you stand in front of it, making it easier to take control of your health.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/smart-mirror.svg"
+    "img_illustration": "/img/products/illustration/smart-mirror.svg",
+    "img_product": "/img/products/photo/smart-mirror.jpg"
   },
   {
     "id": 52,
@@ -570,7 +619,8 @@
     "social": "psfk.com/e10",
     "description": "<p>An ecological smart shower system from Reveeco that filters dirty water and sends it back to the shower head for re-use, reducing waste and water expenditure.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/ecovea-shower.svg"
+    "img_illustration": "/img/products/illustration/ecovea-shower.svg",
+    "img_product": "/img/products/photo/ecovea-shower.jpg"
   },
   {
     "id": 53,
@@ -581,7 +631,8 @@
     "social": "psfk.com/e11",
     "description": "<p>This concept design would wash your clothes without water or detergent, reducing environmental waste and saving natural resources.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/lg-waterless-washing-machine.svg"
+    "img_illustration": "/img/products/illustration/lg-waterless-washing-machine.svg",
+    "img_product": "/img/products/photo/lg-waterless-washing-machine.jpg"
   },
   {
     "id": 54,
@@ -592,7 +643,8 @@
     "social": "psfk.com/e12",
     "description": "<p>Transformable coffee table from Resource Furniture with a glass top that can be adjusted to reduce space or to accommodate a variety of uses.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/flat-coffee-table.svg"
+    "img_illustration": "/img/products/illustration/flat-coffee-table.svg",
+    "img_product": "/img/products/photo/flat-coffee-table.jpg"
   },
   {
     "id": 55,
@@ -603,7 +655,8 @@
     "social": "psfk.com/e13",
     "description": "<p>This discreet board from ZilenZio subtly soundproofs an apartment's interior with its mineral wool and fibreboard materials.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/decibel-floor-screen.svg"
+    "img_illustration": "/img/products/illustration/decibel-floor-screen.svg",
+    "img_product": "/img/products/photo/decibel-floor-screen.jpg"
   },
   {
     "id": 56,
@@ -614,7 +667,8 @@
     "social": "psfk.com/e14",
     "description": "<p>Breathe easy with this natural air filtration system that removes airborne toxins with the help of a household plant.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/andrea-air-filter.svg"
+    "img_illustration": "/img/products/illustration/andrea-air-filter.svg",
+    "img_product": "/img/products/photo/andrea-air-filter.jpg"
   },
   {
     "id": 57,
@@ -625,7 +679,8 @@
     "social": "psfk.com/e15",
     "description": "<p>Designers Kyuho Song and Boa Oh developed this prototype power outlet that attaches to any brightly lit window to generate and store energy from the sun.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/window-socket.svg"
+    "img_illustration": "/img/products/illustration/window-socket.svg",
+    "img_product": "/img/products/photo/window-socket.jpg"
   },
   {
     "id": 58,
@@ -636,7 +691,8 @@
     "social": "psfk.com/e16",
     "description": "<p>A countertop aquaponics system designed by Back to the Roots that takes care of your home gardening needs with the help of a fishy friend or two.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/aquafarm.svg"
+    "img_illustration": "/img/products/illustration/aquafarm.svg",
+    "img_product": "/img/products/photo/aquafarm.jpg"
   },
   {
     "id": 59,
@@ -647,7 +703,8 @@
     "social": "psfk.com/e17",
     "description": "<p>This carafe features a 100% compostable filter made from Malaysian coconut shells to remove contaminants from tap water. New filters get delivered to your door when it's time to replace.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/soma-water-filter.svg"
+    "img_illustration": "/img/products/illustration/soma-water-filter.svg",
+    "img_product": "/img/products/photo/soma-water-filter.jpg"
   },
   {
     "id": 60,
@@ -658,7 +715,8 @@
     "social": "psfk.com/e18",
     "description": "<p>Harness the power of worms to transform food waste into rich soil and liquid fertilizer with this modular terrace composter from ABGC Design.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/wormery-composter.svg"
+    "img_illustration": "/img/products/illustration/wormery-composter.svg",
+    "img_product": "/img/products/photo/wormery-composter.jpg"
   },
   {
     "id": 61,
@@ -669,7 +727,8 @@
     "social": "psfk.com/e19",
     "description": "<p>Stay on top of your pill-popping schedule with the help of this gamified health app that reminds you when it's time to take your medications and vitamins.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/mango-health-app.svg"
+    "img_illustration": "/img/products/illustration/mango-health-app.svg",
+    "img_product": "/img/products/photo/mango-health-app.jpg"
   },
   {
     "id": 62,
@@ -680,7 +739,8 @@
     "social": "psfk.com/e20",
     "description": "<p>This fork looks out for your dietary well-being by vibrating gently when it senses that you're eating too quickly, reminding you to slow down and savor every bite.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/hapifork.svg"
+    "img_illustration": "/img/products/illustration/hapifork.svg",
+    "img_product": "/img/products/photo/hapifork.jpg"
   },
   {
     "id": 63,
@@ -691,7 +751,8 @@
     "social": "psfk.com/e21",
     "description": "<p>Designed by architect Carl Fredrik Svensstedt., this bench gets its organic, undulating shape from flaat sheets of plywood that were cut using CNC technolgy and assembled into their final form.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/infinity-bench.svg"
+    "img_illustration": "/img/products/illustration/infinity-bench.svg",
+    "img_product": "/img/products/photo/infinity-bench.jpg"
   },
   {
     "id": 64,
@@ -702,6 +763,7 @@
     "social": "psfk.com/e22",
     "description": "<p>Sit back and watch your plants grow with this clound-based garden manager that monitors soil quality and other environmental conditions.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/bitponics-gardening-system.svg"
+    "img_illustration": "/img/products/illustration/bitponics-gardening-system.svg",
+    "img_product": "/img/products/photo/bitponics-gardening-system.jpg"
   }
 ]
