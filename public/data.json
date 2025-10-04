@@ -6,7 +6,7 @@
     "title": "Doorbot",
     "company": "doorbot",
     "social": "psfk.com/v8t",
-    "description": "<p>Whether at home or away, greet visitors with this WiFi-enabled doorbell that sends audio and video mobile notifications to your phone or tablet.</p>",
+    "description": "<p>Doorbot is a Wi-Fi-enabled doorbell that alerts homeowners when someone comes to the door by sending audio and video notifications to their smartphone or tablet. The battery-operated device can be installed into any doorframe, and partners with an iOS and Android app that allows users to converse with their guests. Using a built-in microphone and camera, the Doorbot allows users to easily connect their smartphone with their doorbell even when they’re far away, allowing for new levels of remote home monitoring.</p>",
     "buy": 1,
     "img_illustration": "",
     "img_product": "/img/products/photo/doorbot.jpeg"
@@ -18,7 +18,7 @@
     "title": "Nest Thermostat",
     "company": "nest",
     "social": "psfk.com/39w",
-    "description": "<p>This device monitors your environment, temperature preferences, and various coming and goings to optimize heating and cooling.</p>",
+    "description": "<p>The Wi-Fi-enabled Nest Thermostat utilizes a built-in light sensor to detect direct sunlight and will modify the thermostat's behavior accordingly to save both money and energy. The ‘Sunblock’ feature saves energy by preventing the home’s cooling or heating system from switching on when direct sunlight heats the surroundings, creating an inaccurate indication of temperature. In addition to the direct sunlight fix, Nest is rolling out a ‘Cool to Dry’ feature that turns on the home’s air conditioning system when the humidity sensor within the thermostat detects high humidity levels.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/nest-thermostat.svg",
     "img_product": "/img/products/photo/nest-thermostat.jpeg"
@@ -30,7 +30,7 @@
     "title": "Oru Kayak",
     "company": "orukayak",
     "social": "psfk.com/a3",
-    "description": "<p>This foldable full-size kayak makes it easy to get outdoors without comprimising your living space as it also comes with a light-weight carry case.</p>",
+    "description": "<p>The Oru kayak is a full-sized foldable kayak which can be collapsed down to the size of a briefcase for easy storage or transportation.  What initially looks like a large artist portfolio case, can be quickly unfolded and assembled to form a working kayak in around five minutes. The kayak is made from corrugated plastic, which is lightweight, durable, and flexible. Portable recreation solutions like the Oru make it possible for urban dwellers in dense spaces to own a kayak, or travelers to easily bring their kayaks with them wherever they go. The working concept was created by designer Anton Wills.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/oru-kayak.svg",
     "img_product": "/img/products/photo/oru-kayak.jpeg"
@@ -54,7 +54,7 @@
     "title": "Fusillo Wall Shelf",
     "company": "AndViceVersa",
     "social": "psfk.com/3a0",
-    "description": "<p>Flip it over or tuck it under, this modular shelf system from AndViceVersa can hold your books, coats, even bicycles.</p>",
+    "description": "<p>Fusillo is a modular wall shelf that can be reconfigured on-demand to meet a variety of use cases and needs ranging from a standard bookshelf to a coat rack or bike rack. Handmade in Italy and designed by andViceVersa, Fusillo resembles a standard shelving unit, but is comprised of smaller sections that pivot on a central axis and can be moved up and down to be used as bookends or hooks. Each flexible section of the shelf has a notch carved into it that can hold a coat, hat or even a bike.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/fusillo-wall-shelf.svg",
     "img_product": "/img/products/photo/fusillo-wall-shelf.jpeg"
@@ -508,7 +508,7 @@
     "title": "Click And Grow",
     "company": "clickandgrow",
     "social": "psfk.com/e1",
-    "description": "<p>Grow flowers, vegetables and herbs without cutting into your social life. These sensor-embedded pots tend to your plants' every need, even ensuring there's enough water.</p>",
+    "description": "<p>Click and Grow is a digitally-enabled gardening system for raising flowers, vegetables and herbs in a home or apartment. The all-inone kit contains electronics, sensors, batteries, a pump and a water reservoir, while a replaceable cartridge contains seeds, nutrients and software (in a microchip) for growing the plant. The system measures all the necessary parameters and doses an exact amount of water, fertilizer and air, according to the plant’s needs. After the plant’s natural life cycle ends, users can remove the old plant cartridge and insert a new one. The system has cartridges for mini tomatoes, chiles, flowers and herbs, and is capable of tending to itself over a long weekend or during a busy work week.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/click-and-grow.svg",
     "img_product": "/img/products/photo/click-and-grow.jpeg"
@@ -532,7 +532,7 @@
     "title": "Snaidero Greenhood",
     "company": "Snaidero",
     "social": "psfk.com/e3",
-    "description": "<p>An ionizing range hood that monitors your kitchen's air quality, elminating odors and neutralizing harmful particulates like mold and bacteria.</p>",
+    "description": "<p>The Greenhood is a kitchen range hood that eliminates odors while sanitizing the air around it by using a technology similar to those found in ionizing air-purifiers. Created by Italian kitchen-maker Snaidero and appliance-maker Falmec, the two-in-one product works even when it’s not being used for cooking. The hood is always ‘on,’ ridding the air of odors and pollutants from organic molecules suspended in the air like cigarette smoke, cleaning supply smells, and gases. Owners can monitor their kitchen’s air quality by checking a sensor embedded in the hood, which depicts a leaf turning from yellow to green as air quality improves.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/snaidero-greenhood.svg",
     "img_product": "/img/products/photo/snaidero-greenhood.jpeg"
@@ -688,7 +688,7 @@
     "title": "AquaFarm",
     "company": "BTTR Ventures",
     "social": "psfk.com/e16",
-    "description": "<p>A countertop aquaponics system designed by Back to the Roots that takes care of your home gardening needs with the help of a fishy friend or two.</p>",
+    "description": "<p>Designers Nikhil Arora and Alejandro Velez have developed a home growing solution called the Home Aquaponics Kit. The closed-loop, table-top ecosystem consists of a fish tank with a full hydroponic garden suspended above it. The self-cleaning tank relies on the symbiotic relationship of fish and plants to provide nutrients and filtration. The closed system provides a complete and easy solution for home gardeners. The aquaponic garden can be used to grow beans, basil, thyme, baby greens, oregano, mint, parsley, spinach, and other fresh produce at home.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/aquafarm.svg",
     "img_product": "/img/products/photo/aquafarm.jpeg"
@@ -700,7 +700,7 @@
     "title": "Soma Water Filter",
     "company": "Soma",
     "social": "psfk.com/e17",
-    "description": "<p>This carafe features a 100% compostable filter made from Malaysian coconut shells to remove contaminants from tap water. New filters get delivered to your door when it's time to replace.</p>",
+    "description": "<p>The Soma water filtering carafe is an innovative approach to water purification. Like its plastic counterparts, this filter removes chlorine, heavy metals, and other contaminants from tap water, but instead of filtering through plastic, it is made of a compostable, food-based PLA composite, carbon granules derived from Malaysian coconut shells, and a special layer of vegan silk that adds to the filtration process.  The filter, designed from the ground up by David Beeman, is fully biodegradable and designed to provide a unique, crisp taste. The traditional carafe shape, made from decanter-quality glass, is both elegant and ergonomically sound, while its sustainable composition can help to cut down on the nearly 38 billion water bottles that are discarded annually.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/soma-water-filter.svg",
     "img_product": "/img/products/photo/soma-water-filter.jpeg"
@@ -760,7 +760,7 @@
     "title": "Bitponics Gardening System",
     "company": "Bitponics",
     "social": "psfk.com/e22",
-    "description": "<p>Sit back and watch your plants grow with this clound-based garden manager that monitors soil quality and other environmental conditions.</p>",
+    "description": "<p>The Bitponics system is a cloud-based hydroponic garden manager, complete with a web-based dashboard that’s accessible anywhere and can control every aspect of the growing process, like the pH of the soil, temperature, light and moisture level. The compact garden system collects data from Wi-Fi enabled sensors that plug into a base, logging that information in a dashboard. When any problems arise, the system sends alerts to owners. The base has two power outlets built in which feature timers that allow you to set schedules for components like lights and pumps. The system also connects users to a community of other growers so that they can swap stories and advice.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/bitponics-gardening-system.svg",
     "img_product": "/img/products/photo/bitponics-gardening-system.jpeg"
