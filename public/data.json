@@ -111,14 +111,14 @@
   },
   {
     "id": 11,
-    "exhibit-num": "a11X",
+    "exhibit-num": "a11",
     "category": "adaptive",
     "title": "Hue Bulb",
     "company": "Philips",
     "social": "psfk.com/a11",
     "description": "<p>Set the mood with these multi-color LED bulbs that are controlled via your smartphone.</p>",
     "buy": 1,
-    "img_illustration": ""
+    "img_illustration": "/img/products/illustration/philips-hue.svg"
   },
   {
     "id": 12,
@@ -133,7 +133,7 @@
   },
   {
     "id": 13,
-    "exhibit-num": "a13X",
+    "exhibit-num": "a13",
     "category": "adaptive",
     "title": "Milkmaid Smart Jug",  
     "company": "Quirky",
@@ -221,7 +221,7 @@
   },
   {
     "id": 21,
-    "exhibit-num": "a21X",
+    "exhibit-num": "a21",
     "category": "adaptive",
     "title": "Goliath Table",
     "company": "Resource Furniture",
@@ -254,7 +254,7 @@
   },
   {
     "id": 24,
-    "exhibit-num": "d1X",
+    "exhibit-num": "d1",
     "category": "on-demand",
     "title": "Svbscription X The Selby",
     "company": "The Selby",
@@ -374,7 +374,7 @@
   },
   {
     "id": 35,
-    "exhibit-num": "d12X",
+    "exhibit-num": "d12",
     "category": "on-demand",
     "title": "WunWun",
     "company": "WunWun",
@@ -451,7 +451,7 @@
   },
   {
     "id": 42,
-    "exhibit-num": "d19X",
+    "exhibit-num": "d19",
     "category": "on-demand", 
     "title": "Fan TV",
     "company": "fantv",
@@ -473,7 +473,7 @@
   },
   {
     "id": 44,
-    "exhibit-num": "e2X",
+    "exhibit-num": "e2",
     "category": "equilibrium",
     "title": "Pétale Lamp",
     "company": "Luceplan",
@@ -484,14 +484,15 @@
   },
   {
     "id": 45,
-    "exhibit-num": "e3X",
+    "exhibit-num": "e3",
     "category": "equilibrium",
     "title": "Snaidero Greenhood",
     "company": "Snaidero",
     "social": "psfk.com/e3",
     "description": "<p>An ionizing range hood that monitors your kitchen's air quality, elminating odors and neutralizing harmful particulates like mold and bacteria.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/snaidero-greenhood.svg"
+    "img_illustration": "/img/products/illustration/snaidero-greenhood.svg",
+    "img_product": "/img/products/photo/snaidero-greenhood.jpg"
   },
   {
     "id": 46,
@@ -616,7 +617,7 @@
   },
   {
     "id": 57,
-    "exhibit-num": "e15X",
+    "exhibit-num": "e15",
     "category": "equilibrium",
     "title": "Window Socket",
     "company": "Kyuho Song / Boa Oh",
@@ -638,7 +639,7 @@
   },
   {
     "id": 59,
-    "exhibit-num": "e17",
+    "exhibit-num": "e17X",
     "category": "equilibrium",
     "title": "Soma Water Filter",
     "company": "Soma",
