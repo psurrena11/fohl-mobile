@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "exhibit-num": "A1",
+    "exhibit-num": "a1X",
     "category": "adaptive",
     "title": "Doorbot",
     "company": "doorbot",
     "social": "psfk.com/v8t",
     "description": "<p>Whether at home or away, greet visitors with this WiFi-enabled doorbell that sends audio and video mobile notifications to your phone or tablet.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/doorbot.svg"
+    "img_illustration": ""
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "social": "psfk.com/39w",
     "description": "<p>This device monitors your environment, temperature preferences, and various coming and goings to optimize heating and cooling.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/thermostat.svg"
+    "img_illustration": "/img/products/illustration/nest-thermostat.svg"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "category": "adaptive",
     "title": "Oru Kayak",
     "company": "orukayak",
-    "social": "psfk.com/39y",
+    "social": "psfk.com/a3",
     "description": "<p>This foldable full-size kayak makes it easy to get outdoors without comprimising your living space as it also comes with a light-weight carry case.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/oru-kayak.svg"
@@ -52,7 +52,7 @@
     "social": "psfk.com/3a0",
     "description": "<p>Flip it over or tuck it under, this modular shelf system from AndViceVersa can hold your books, coats, even bicycles.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/fuutio-wall-bras.svg"
+    "img_illustration": "/img/products/illustration/fusillo-wall-shelf.svg"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "social": "psfk.com/a6",
     "description": "<p>These lighweight folding chairs from Folditure are designed to easily stack, hang, and store.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/till-chair.svg"
+    "img_illustration": "/img/products/illustration/tilt-chair.svg"
   },
   {
     "id": 7,
@@ -111,14 +111,14 @@
   },
   {
     "id": 11,
-    "exhibit-num": "a11",
+    "exhibit-num": "a11X",
     "category": "adaptive",
     "title": "Hue Bulb",
     "company": "Philips",
     "social": "psfk.com/a11",
     "description": "<p>Set the mood with these multi-color LED bulbs that are controlled via your smartphone.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/hue-bulb.svg"
+    "img_illustration": ""
   },
   {
     "id": 12,
@@ -133,7 +133,7 @@
   },
   {
     "id": 13,
-    "exhibit-num": "a13",
+    "exhibit-num": "a13X",
     "category": "adaptive",
     "title": "Milkmaid Smart Jug",  
     "company": "Quirky",
@@ -221,7 +221,7 @@
   },
   {
     "id": 21,
-    "exhibit-num": "a21",
+    "exhibit-num": "a21X",
     "category": "adaptive",
     "title": "Goliath Table",
     "company": "Resource Furniture",
@@ -254,7 +254,7 @@
   },
   {
     "id": 24,
-    "exhibit-num": "d1",
+    "exhibit-num": "d1X",
     "category": "on-demand",
     "title": "Svbscription X The Selby",
     "company": "The Selby",
@@ -316,7 +316,7 @@
     "social": "psfk.com/d6",
     "description": "<p>Bring the best beans from roasters around the globe to your doorstep each month.</p>",
     "buy": 1,
-    "img_illustration": "/img/products/illustration/craft-kit-subscription.svg"
+    "img_illustration": "/img/products/illustration/craft-coffee-subscription.svg"
   },
   {
     "id": 30,
@@ -330,7 +330,7 @@
   },
   {
     "id": 31,
-    "exhibit-num": "d8",
+    "exhibit-num": "d8X",
     "category": "on-demand",
     "title": "Beats Audio",
     "company": "Beats",
@@ -374,7 +374,7 @@
   },
   {
     "id": 35,
-    "exhibit-num": "d12",
+    "exhibit-num": "d12X",
     "category": "on-demand",
     "title": "WunWun",
     "company": "WunWun",
@@ -451,7 +451,7 @@
   },
   {
     "id": 42,
-    "exhibit-num": "d19",
+    "exhibit-num": "d19X",
     "category": "on-demand", 
     "title": "Fan TV",
     "company": "fantv",
@@ -473,7 +473,7 @@
   },
   {
     "id": 44,
-    "exhibit-num": "e2",
+    "exhibit-num": "e2X",
     "category": "equilibrium",
     "title": "Pétale Lamp",
     "company": "Luceplan",
@@ -484,7 +484,7 @@
   },
   {
     "id": 45,
-    "exhibit-num": "e3",
+    "exhibit-num": "e3X",
     "category": "equilibrium",
     "title": "Snaidero Greenhood",
     "company": "Snaidero",
@@ -528,7 +528,7 @@
   },
   {
     "id": 49,
-    "exhibit-num": "e7",
+    "exhibit-num": "e7X",
     "category": "equilibrium",
     "title": "Jawbone UP",
     "company": "Jawbone",
@@ -616,7 +616,7 @@
   },
   {
     "id": 57,
-    "exhibit-num": "e15",
+    "exhibit-num": "e15X",
     "category": "equilibrium",
     "title": "Window Socket",
     "company": "Kyuho Song / Boa Oh",
