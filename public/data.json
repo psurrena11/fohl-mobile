@@ -8,7 +8,8 @@
     "social": "psfk.com/v8t",
     "description": "<p>Whether at home or away, greet visitors with this WiFi-enabled doorbell that sends audio and video mobile notifications to your phone or tablet.</p>",
     "buy": 1,
-    "img_illustration": ""
+    "img_illustration": "",
+    "img_product": "/img/products/photo/doorbot.jpg"
   },
   {
     "id": 2,
@@ -330,7 +331,7 @@
   },
   {
     "id": 31,
-    "exhibit-num": "d8X",
+    "exhibit-num": "d8",
     "category": "on-demand",
     "title": "Beats Audio",
     "company": "Beats",
@@ -529,7 +530,7 @@
   },
   {
     "id": 49,
-    "exhibit-num": "e7X",
+    "exhibit-num": "e7",
     "category": "equilibrium",
     "title": "Jawbone UP",
     "company": "Jawbone",
@@ -639,7 +640,7 @@
   },
   {
     "id": 59,
-    "exhibit-num": "e17X",
+    "exhibit-num": "e17",
     "category": "equilibrium",
     "title": "Soma Water Filter",
     "company": "Soma",
