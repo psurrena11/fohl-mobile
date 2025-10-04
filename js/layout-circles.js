@@ -114,16 +114,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Update the panel's content with the item's data
     productContent.querySelector('h1').textContent = item.title;
-    productContent.querySelector('content').innerHTML = item.description; // Use .innerHTML because description contains HTML
     productContent.querySelector('.company').textContent = item.company;
     productContent.querySelector('.social').textContent = item.social;
+    productContent.querySelector('.description-text').innerHTML = item.description;
     
     // Example for updating the image - assumes your JSON has an image path
     if (item.img_illustration) {
-        const imgElement = productContent.querySelector('.product-image img');
+        const imgElement = productContent.querySelector('.product-illustration img');
         imgElement.src = item.img_illustration;
         imgElement.alt = item.title;
     }
+
+    if (item.img_product) {
+        const imgElement = productContent.querySelector('.product-photo img');
+        imgElement.src = item.img_product;
+        imgElement.alt = item.title;
+    }
+    
+
   }
 
   // --- EVENT HANDLERS & LISTENERS ---

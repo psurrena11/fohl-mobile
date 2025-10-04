@@ -2,6 +2,16 @@
 @use "mixins" as m;
 
 #product {
+       
+    .product-illustration,
+    .product-photo {
+        text-align: center;
+
+        img {
+            width: 100%;
+            
+        }
+    }
 
     header {
         display: grid;
@@ -10,13 +20,6 @@
         border-bottom: 1px solid v.$med-grey;
         padding: 0 0 v.$sp_md;
 
-        .product-image {
-            text-align: center;
-
-            img {
-                width: 80%;
-            }
-        }
 
         h1 {
             font-size: 2em;
