@@ -6,7 +6,7 @@
     "title": "Doorbot",
     "company": "doorbot",
     "social": "psfk.com/v8t",
-    "description": "<p>Doorbot is a wireless doorbell that connects to your smartphone or tablet, allowing you to see and speak to visitors at your door from anywhere.</p>",
+    "description": "<p>Whether at home or away, greet visitors with this WiFi-enabled doorbell that sends audio and video mobile notifications to your phone or tablet.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/doorbot.svg"
   },
@@ -17,7 +17,7 @@
     "title": "Nest Thermostat",
     "company": "nest",
     "social": "psfk.com/39w",
-    "description": "<p>The Nest Learning Thermostat learns your habits to program itself, creating a personalized schedule that can save you up to 20% on your heating and cooling bill.</p>",
+    "description": "<p>This device monitors your environment, temperature preferences, and various coming and goings to optimize heating and cooling.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/thermostat.svg"
   },
@@ -28,7 +28,7 @@
     "title": "Oru Kayak",
     "company": "orukayak",
     "social": "psfk.com/39y",
-    "description": "<p>Oru Kayak is a personal watercraft that folds into a portable case, small enough to be stored in a closet or checked as luggage, turning the city into your playground.</p>",
+    "description": "<p>This foldable full-size kayak makes it easy to get outdoors without comprimising your living space as it also comes with a light-weight carry case.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/oru-kayak.svg"
   },
@@ -39,7 +39,7 @@
     "title": "ThinBike",
     "company": "Schindelhauer Bikes",
     "social": "psfk.com/a4",
-    "description": "<p>This urban bicycle by Schindelhauer has hinged bars and pedals to reduce its storage footprint withn any living space.</p>",
+    "description": "<p>This urban bicycle by Schindelhauer has hinged bars and pedals to reduce its storage footprint within any living space.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/thinbike.svg"
   },
@@ -48,9 +48,9 @@
     "exhibit-num": "A5",
     "category": "adaptive",
     "title": "Fusillo Wall Shelf",
-    "company": "Fusillo",
+    "company": "AndViceVersa",
     "social": "psfk.com/3a0",
-    "description": "<p>The Fusillo Wall Bras are an easy and temporary way to hang objects without damaging walls, perfect for renters who are unable to use nails or screws.</p>",
+    "description": "<p>Flip it over or tuck it under, this modular shelf system from AndViceVersa can hold your books, coats, even bicycles.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/fuutio-wall-bras.svg"
   },
@@ -61,7 +61,7 @@
     "title": "Tilt Chair",
     "company": "Folditure",
     "social": "psfk.com/a6",
-    "description": "<p>The Tilt Chair is a customizable piece of furniture whose frame is made from turned wooden sticks, allowing for various fabric seating options to be weaved on.</p>",
+    "description": "<p>These lighweight folding chairs from Folditure are designed to easily stack, hang, and store.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/till-chair.svg"
   },
@@ -72,7 +72,7 @@
     "title": "Cricket Side Table",
     "company": "Folditure",
     "social": "psfk.com/a7",
-    "description": "<p>The Cricket Side Table combines a flat surface with a magazine rack, allowing for flexible use in small spaces like the living room or bedroom.</p>",
+    "description": "<p>There when you need it, gone when you don't: a Folditure produced table that reduces down to 3/4 inch thick board.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/cricket-side-table.svg"
   },
@@ -83,7 +83,7 @@
     "title": "Peg Furniture System",
     "company": "Studio Gorm",
     "social": "psfk.com/a8",
-    "description": "<p>These easily assembled tables and chairs from Studio Gorm can be stored flat along a wall-mounted peg rail, to save space and provide an aesthetic wall installation</p>",
+    "description": "<p>These easily assembled tables and chairs from Studio Grom can be stored flat along a wall-mounted peg rail, to save space eand provide an aesthetic wall installation.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/peg-furniture-system.svg"
   },
@@ -94,7 +94,7 @@
     "title": "Belkin WeMo",
     "company": "Belkin",
     "social": "psfk.com/a9",
-    "description": "<p>Belkin WeMo is a system of modular smart devices that connect to a home's WiFi network, allowing users to control their electronics from anywhere.</p>",
+    "description": "<p>Control your home electronics and lights even when you're away. Turn it on, turn it off, put it on a schedule—all from your smartphone</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/belkin-wemo.svg"
   },
@@ -105,7 +105,7 @@
     "title": "Zig Sofa",
     "company": "Cezign",
     "social": "psfk.com/a10",
-    "description": "<p>The Zig Sofa allows users to add or remove seats from the piece using a zipper system, creating customized seating arrangements to fit any space.</p>",
+    "description": "<p>Turn these colorful modular soft blocks into beds, sofas, tables, benches, or shelves to suit any mood or space requirement.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/zig-sofa.svg"
   },
@@ -116,7 +116,7 @@
     "title": "Hue Bulb",
     "company": "Philips",
     "social": "psfk.com/a11",
-    "description": "<p>Philips' Hue is an LED light bulb that allows users to create and control light using their smartphone, producing any shade of white or colored light.</p>",
+    "description": "<p>Set the mood with these multi-color LED bulbs that are controlled via your smartphone.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/hue-bulb.svg"
   },
@@ -127,7 +127,7 @@
     "title": "ADAPTable",
     "company": "Mami Kim",
     "social": "psfk.com/a12",
-    "description": "<p>ADAPTable is a smart surface that combines multi-touch technology with object recognition to bridge the gap between digital and physical.</p>",
+    "description": "<p>Set up your work space for a variety of tasks by rearranging the panels in this customizable desktop.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/adaptable.svg"
   },
@@ -138,7 +138,7 @@
     "title": "Milkmaid Smart Jug",  
     "company": "Quirky",
     "social": "psfk.com/a13",
-    "description": "<p>Get text messages when your milk goes bad or is simply running low with this sensor-enabled jug being considered for production by Quirky.</p>",
+    "description": "<p>Get a text message when your milk goes bad or is simply running low with this sensor-enabled jug being considered for production by Quirky.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/milkmaid-smart-jug.svg"
   },
@@ -149,7 +149,7 @@
     "title": "Vurv Wall Desk",
     "company": "Vurv Design",
     "social": "psfk.com/a14",
-    "description": "<p>The Vurv wall shelf is created from a single piece of wood that has been bent into a continuous loop, holding everything from books to plants in its curves.</p>",
+    "description": "<p>This wall-mounted desk is designed to be used while standing to reduce the negative effects that sitting can have on your health.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/vurv-wall-decor.svg"
   },
@@ -160,7 +160,7 @@
     "title": "CubeSensors",
     "company": "Cube Sensors",
     "social": "psfk.com/a15",
-    "description": "<p>The Public Sensor kit gives non-experts the ability to collect data about their surrounding environment, including air quality, noise, and temperature.</p>",
+    "description": "<p>These wireless sensor boxes monitor temperature, humidity, noise, and air quality levels in indoor spaces, and send custom data reports.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/cube-sensors.svg"
   },
@@ -171,7 +171,7 @@
     "title": "AT-UM Table",
     "company": "Lenovo",
     "social": "psfk.com/v9e",
-    "description": "<p>The At-Um Table by Lenovo is a coffee table can be configured in a variety of ways to fit any home space, and can be used for storage, display, or simply as a table.</p>",
+    "description": "<p>Shift from desktop to easel with this convertible wooden table from Lenovo.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/at-um-table.svg"
   },
@@ -182,7 +182,7 @@
     "title": "Scout Alarm",
     "company": "scoutalarm",
     "social": "psfk.com/a17",
-    "description": "<p>Scout is a home alarm system that is controlled via smartphone and can be installed without the need for a professional service.</p>",
+    "description": "<p>Wired home security system that keeps an eye on your home using a sleek, easy-to-use interface.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/scout-alarm.svg"
   },
@@ -191,9 +191,9 @@
     "exhibit-num": "a18",
     "category": "adaptive",
     "title": "Modular Screen",
-    "company": "Lerival",
+    "company": "Moorhead & Moorhead",
     "social": "psfk.com/a18",
-    "description": "<p>Screen is a subscription service that allows users to stream a curated selection of independent films from their TVs and mobile devices.</p>",
+    "description": "<p>Divide up large spaces with unique shapes with this system of perforated panels designed by Moorhead & Moorhead</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/modular-screen.svg"
   },
@@ -202,9 +202,9 @@
     "exhibit-num": "a19",
     "category": "adaptive",
     "title": "Ulisse Desk-Bed",
-    "company": "Resource Furnitur",
+    "company": "Resource Furniture",
     "social": "psfk.com/a19",
-    "description": "<p>The A-Desk Set is a modular desk made from recycled cardboard that has room for storage and can be easily assembled without the use of glue or tools.</p>",
+    "description": "<p>Go from work to sleep in a single movement with this transformable desk-bed from Resource Furniture that tucks away to become a functioning surface during the day.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/ulisse-desk-bed.svg"
   },
@@ -213,9 +213,9 @@
     "exhibit-num": "a20",
     "category": "adaptive",
     "title": "Cubista Ottoman",
-    "company": "Resource Furnitur",
+    "company": "Resource Furniture",
     "social": "psfk.com/a20",
-    "description": "<p>The Corbra Office Kit is a desktop organizer designed for a variety of tasks, with a built-in whiteboard for notes and a space to hold office accessories.</p>",
+    "description": "<p>Resource Furniture's space-saving ottoman provides seating for up to five, with removable padded sides that can attach to one of four bases nedted inside the structure.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/cubista-ottoman.svg"
   },
@@ -224,9 +224,9 @@
     "exhibit-num": "a21",
     "category": "adaptive",
     "title": "Goliath Table",
-    "company": "Resource Furnitur",
+    "company": "Resource Furniture",
     "social": "psfk.com/a21",
-    "description": "<p>The Golia Table features a tabletop made from salvaged wood from the Coney Island boardwalk, patched with colorful recycled plastic.</p>",
+    "description": "<p>The collapsible frame of this table from Resource Furniture fits all your dining needs, from Thanksgiving with family to a quiet meal for two.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/goliath-table.svg"
   },
@@ -237,7 +237,7 @@
     "title": "Pocket Chair",
     "company": "Resource Furnitur",
     "social": "psfk.com/a22",
-    "description": "<p>Pocket Chair can be stored in a flat position to save space and is constructed from a polypropylene sheet with a locking mechanism made from bungee cords.</p>",
+    "description": "<p>When folded for storage, these sleek chairs from Resource Furniture only measure two inches deep, allowing you to keep  plenty on hand to accommodate any sized dinner party.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/pocket-chair.svg"
   },
@@ -246,9 +246,9 @@
     "exhibit-num": "a23",
     "category": "adaptive",
     "title": "1.6 SM of Life Desk-Bed",
-    "company": "Studio Oni",
+    "company": "Studio NL",
     "social": "psfk.com/a23",
-    "description": "<p>The Land Rover Set of Flat-Pack Stools are made from lightweight ash plywood and can be stored together as a single block to save space.</p>",
+    "description": "<p>Catch forty winks while pulling an all-nighter with this transformable space-saving, sleep-saving desk-bed from Sutdio NL.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/life-desk-bed.svg"
   },
@@ -257,9 +257,9 @@
     "exhibit-num": "d1",
     "category": "on-demand",
     "title": "Svbscription X The Selby",
-    "company": "THe Selby",
+    "company": "The Selby",
     "social": "psfk.com/d1",
-    "description": "<p>A luxury subscription service that delivers curated products and experiences directly to your door. The latest volume of home decor items has been curated by design guru The Selby</p>",
+    "description": "<p>A luxury subscription service that delivers curated products and experiences directly to your door. The latest vollume of home decor items has been curated by design guru The Selby.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/selby.svg"
   },
@@ -270,7 +270,7 @@
     "title": "GetArtUp Service",
     "company": "GetArtUp",
     "social": "psfk.com/d2",
-    "description": "<p>SolarPuff is a portable, waterproof light that is solar-powered and can be folded flat to be packed and transported easily.</p>",
+    "description": "<p>Refresh your walls every six months with this art subscription service that rents out original works from contemporary artists.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/get-art-up.svg"
   },
@@ -281,7 +281,7 @@
     "title": "Hello Fresh Delivery",
     "company": "Hello Fresh",
     "social": "psfk.com/d3",
-    "description": "<p>HelloFresh is a subscription service that delivers weekly boxes with exact ingredients and instructions needed for a variety of fresh, healthy recipes.</p>",
+    "description": "<p>Manage work, social lives, and meal preparation with boxes of freash, pre-measured ingredients that arrive at your doorstep, along with recipes for healthy dishes.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/hello-fresh-delivery.svg"
   },
@@ -292,7 +292,7 @@
     "title": "Julibox Subscription",
     "company": "Julibox",
     "social": "psfk.com/d4",
-    "description": "<p>Craft Coffee is a monthly subscription service that provides members with a tasting box of three different coffees from roasters all over the country.</p>",
+    "description": "<p>Bring nightlife home with this monthly cocktail subscription service.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/julibox.svg"
   },
@@ -303,7 +303,7 @@
     "title": "Individual Bibliotherapy",
     "company": "The School of LIfe",
     "social": "psfk.com/d5",
-    "description": "<p>Immuno-Biotherapy is an organic body wash that uses good bacteria to keep users clean and protect them from bad bacteria, dirt, and sweat.</p>",
+    "description": "<p>Tailored reading lists created from an hour-long consultation with an artist, novelist, and bookstore owner.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/individual-bibliotherapy.svg"
   },
@@ -314,7 +314,7 @@
     "title": "Craft Coffee Subscription",
     "company": "Craft Coffee",
     "social": "psfk.com/d6",
-    "description": "<p>Whimseybox is a subscription service that provides all the supplies and inspiration needed for a different do-it-yourself craft project each month.</p>",
+    "description": "<p>Bring the best beans from roasters around the globe to your doorstep each month.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/craft-kit-subscription.svg"
   },
@@ -324,7 +324,7 @@
     "title": "Everything But The Manual Furniture System",
     "company": "David Graas",
     "social": "psfk.com/d7",
-    "description": "<p>But The Manual is a service that teaches the basics of home improvement through an illustrated online guide and kits with tools and materials.</p>",
+    "description": "<p>These 177 identical oak building blocks concepted by designer David Graas can be screwed together to make almost anything.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/everything-but-the-manual.svg"
   },
@@ -335,7 +335,7 @@
     "title": "Beats Audio",
     "company": "Beats",
     "social": "psfk.com/d8",
-    "description": "<p>Beats Audio Pill is a small wireless speaker that produces high-quality sound and can be used for both music and phone calls via its built-in microphone.</p>",
+    "description": "<p>Higher-quality audio devices coupled with software supported by HTC, HP, and Chrysler deliver wireless sound through headphones, screens, and speakers.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/beats-audio.svg"
   },
@@ -346,7 +346,7 @@
     "title": "PLAiR Dongle",
     "company": "PlAiR",
     "social": "psfk.com/d9",
-    "description": "<p>Plant-delivery.com sends subscribers everything they need to grow their own urban garden, including seeds, soil, planters, and instructions.</p>",
+    "description": "<p>Watch any mobile device or somputer content on your TV with this wifi-enabled dongle that allows for easy sharing.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/plair.svg"
   },
@@ -357,7 +357,7 @@
     "title": "Printrbot",
     "company": "Printrbot",
     "social": "psfk.com/d10",
-    "description": "<p>Printrbot is a desktop 3D printer that can be assembled in a few hours, and can help you create all those extra things you need for your apartment.</p>",
+    "description": "<p>Easy-to-use desktop 3D printer that could help you create all those extra things you need for your apartment.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/printrbot.svg"
   },
@@ -368,7 +368,7 @@
     "title": "Matterform 3D Scanner",
     "company": "Matterform",
     "social": "psfk.com/d11",
-    "description": "<p>Matterform is a design tool that combines handcrafting with digital manufacturing to allow users to create a variety of customizable lampshades.</p>",
+    "description": "<p>Place any physical object onthis 3D scanner and watch it take shape on your computer screen.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/matterform.svg"
   },
@@ -379,7 +379,7 @@
     "title": "WunWun",
     "company": "WunWun",
     "social": "psfk.com/d12",
-    "description": "<p>WunWun allows for creative shelving arrangements through a series of wires that are fixed to a wall and can be altered in shape and dimension.</p>",
+    "description": "<p>Need a light fixture built? WunWun finds people who will come t your home an do it for you.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/wunwun.svg"
   },
@@ -388,9 +388,9 @@
     "exhibit-num": "d13",
     "category": "on-demand",
     "title": "Arduino Starter Kit",
-    "company": "TechWillSaveUs",
+    "company": "TechnologyWillSaveUs",
     "social": "psfk.com/d13",
-    "description": "<p>The Arduino Starter Kit walks beginners through the basics of the open-source electronics platform, providing all the components needed for 15 projects.</p>",
+    "description": "<p>This instructional kit from TechnologyWillSaveUs helps you build interactive electronic objects for your home.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/arduino-starter-kit.svg"
   },
@@ -401,7 +401,7 @@
     "title": "DIY Speakers Kit",
     "company": "diyspeaker",
     "social": "psfk.com/3cd",
-    "description": "<p>The DIY Speaker Kit provides all the parts needed for users to build their own Mason jar speaker, compatible with any device with a headphone jack.</p>",
+    "description": "<p>Turn anything  from a cereal box to a takeout container into a speaker with a DIY kit from TechnologyWillSaveUs that includes a custom amplifier and all the necessary electronic compoonents.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/diy-speaker.svg"
   },
@@ -412,7 +412,7 @@
     "title": "Little Printer",
     "company": "Berg",
     "social": "psfk.com/va9",
-    "description": "<p>The Little Printer creates a personalized newspaper through subscriptions to a variety of content sources, delivered to users on a miniature receipt.</p>",
+    "description": "<p>This desktop printing device from Berg generates receipt-size newspapers with personal updates, fun facts, and puzzles throughout the day.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/little-printer.svg"
   },
@@ -423,7 +423,7 @@
     "title": "Milk Please",
     "company": "Milf Please",
     "social": "psfk.com/d16",
-    "description": "<p>The MKII Kitchen Mixer by Victorinox is powered by the water pressure from a kitchen faucet, eliminating the need for electricity.</p>",
+    "description": "<p>Call on your neighbors to help pick up last-minute groceries like fresh milk and eggs with this community-based shopping service that charges a small fee.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/milk-please.svg"
   },
@@ -434,7 +434,7 @@
     "title": "Sony Projector",
     "company": "Sony",
     "social": "psfk.com/d17",
-    "description": "<p>Sony's Portable Ultra Short Throw Projector can cast an image of up to 80 inches onto any flat surface, turning any wall into a high-definition screen.</p>",
+    "description": "<p>This high-res, 5200 lumens projector can make your favorite movies and TV life sized. Suitable for both light and dark environments.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/sony-projector.svg"
   },
@@ -445,7 +445,7 @@
     "title": "Jawbone Jambox",
     "company": "Jawbone",
     "social": "psfk.com/d18",
-    "description": "<p>The Jambox by Jawbone is a wireless portable speaker that can connect to a variety of devices, providing high-quality sound in a small, compact size.</p>",
+    "description": "<p>Enjoy your music in any room with this Bluetooth speaker that also acts as a speaker phone for work meetings at home.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/jawbone-jambox.svg"
   },
@@ -456,7 +456,7 @@
     "title": "Fan TV",
     "company": "fantv",
     "social": "psfk.com/vad",
-    "description": "<p>Fan TV has the ability to connect to and consolidate a user's television, cable box, and streaming devices into a single, seamless viewing experience.</p>",
+    "description": "<p>The next-generation set-top box combines TV, DVR, VOD, and streaming servcies all through one sleek interface, and comes with a pebble-like touch pad.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/fan-tv.svg"
   },
@@ -467,7 +467,7 @@
     "title": "Click And Grow",
     "company": "clickandgrow",
     "social": "psfk.com/e1",
-    "description": "<p>The Click & Grow is an electronic smartpot that uses sensors to monitor a plant's needs, and waters and fertilizes it accordingly for optimal growth.</p>",
+    "description": "<p>Grow flowers, vegetables and herbs without cutting into your social life. These sensor-embedded pots tend to your plants' every need, even ensuring there's enough water.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/click-and-grow.svg"
   },
@@ -478,7 +478,7 @@
     "title": "Pétale Lamp",
     "company": "Luceplan",
     "social": "psfk.com/e2",
-    "description": "<p>The Pétale lamp is a hanging light fixture that can be opened or closed to alter the amount of light it puts out, as well as change its appearance.</p>",
+    "description": "<p>This organic-shaped lamp from Luceplan is made with sound absorbingn foam and fabrics to help muffle ambient noise and create peaceful environments.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/petale-lamp.svg"
   },
@@ -489,7 +489,7 @@
     "title": "Snaidero Greenhood",
     "company": "Snaidero",
     "social": "psfk.com/e3",
-    "description": "<p>Philips' Urban Greenhouse is a home farming appliance for growing fresh vegetables, using a combination of LED lighting and hydroponic technology.</p>",
+    "description": "<p>An ionizing range hood that monitors your kitchen's air quality, elminating odors and neutralizing harmful particulates like mold and bacteria.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/snaidero-greenhood.svg"
   },
@@ -500,7 +500,7 @@
     "title": "Koubachi Plant Monitor",
     "company": "Koubachi",
     "social": "psfk.com/e4",
-    "description": "<p>Botanicalls kits allow plants to place phone calls for human help, using sensors to monitor moisture levels and alert owners when they need water.</p>",
+    "description": "<p>This WiFi-enabled sensor measures soil, moisture, sunlight intensity, temperature and fertilizer needs to keep your plants extra green.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/koubachi-plant-monitor.svg"
   },
@@ -511,7 +511,7 @@
     "title": "Smart Body Analyzer Scale",
     "company": "Withings",
     "social": "psfk.com/e5",
-    "description": "<p>The Withings Smart Body Analyzer is a scale that measures weight, BMI, body fat percentage, and heart rate, and syncs the data to an online dashboard.</p>",
+    "description": "<p>WiFi-connected scale helps you track your weight, BMI, and body fat over time automatically sending results to a digital dashboard.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/smart-body-analyzer-scale.svg"
   },
@@ -522,7 +522,7 @@
     "title": "Withings Pressure Monitor",
     "company": "Withings",
     "social": "psfk.com/e6",
-    "description": "<p>The Withings Blood Pressure Monitor is an at-home device that measures blood pressure and heart rate and automatically saves the data to a mobile app.</p>",
+    "description": "<p>Arm cuff syncs with a mobile device to help you monitor your health and stress-levels at home.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/withings-pressure-monitor.svg"
   },
@@ -533,7 +533,7 @@
     "title": "Jawbone UP",
     "company": "Jawbone",
     "social": "psfk.com/e7",
-    "description": "<p>Jawbone's UP is an activity tracker that monitors daily movement, sleep patterns, and eating habits and syncs with a mobile app to visualize the data.</p>",
+    "description": "<p>Track your activity levels and sleep patterns with this writband that logs all pertinent data in a connect smartphone app.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/jawbone-up.svg"
   },
@@ -544,7 +544,7 @@
     "title": "Urbio Wall-storage System",
     "company": "Urbio",
     "social": "psfk.com/e8",
-    "description": "<p>Urbio is a magnetic wall storage system that can be used to hold anything from office supplies to plants, and can be customized to fit any space.</p>",
+    "description": "<p>A modular, wall-mounted system with magnetic pots, which can be used for vertical gardening or small space organization.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/urbio-wall-storage-system.svg"
   },
@@ -555,7 +555,7 @@
     "title": "Smart Mirror",
     "company": "Mingzherpoh",
     "social": "psfk.com/e9",
-    "description": "<p>The Quirky Smart Port is a power strip that can be controlled from a mobile device, allowing users to remotely turn on and off their appliances.</p>",
+    "description": "<p>This mirror prototype by eletrical engineer Ming-Zher Poh measures your heartrate as you stand in front of it, making it easier to take control of your health.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/smart-mirror.svg"
   },
@@ -566,7 +566,7 @@
     "title": "EcoVéa Shower",
     "company": "Reveeco",
     "social": "psfk.com/e10",
-    "description": "<p>Eva is a smart shower that monitors water usage, and can shut off the flow when users step away to lather up, saving up to 50% of water.</p>",
+    "description": "<p>An ecological smart shower system from Reveeco that filters dirty water and sends it back to the shower head for re-use, reducing waste and water expenditure.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/ecovea-shower.svg"
   },
@@ -577,7 +577,7 @@
     "title": "LG Watterless Washing Machine",
     "company": "LG",
     "social": "psfk.com/e11",
-    "description": "<p>The LG SmartThinQ is a washing machine that can be remotely operated and monitored through a smartphone, and can diagnose problems on its own.</p>",
+    "description": "<p>This concept design would wash your clothes without water or detergent, reducing environmental waste and saving natural resources.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/lg-waterless-washing-machine.svg"
   },
@@ -586,9 +586,9 @@
     "exhibit-num": "e12",
     "category": "equilibrium",
     "title": "Flat Coffee Table",
-    "company": "Resource Furnitur",
+    "company": "Resource Furniture",
     "social": "psfk.com/e12",
-    "description": "<p>The Flat Coffee Table by designer Matali Crasset has two removable trays for serving, which reveal a storage space when they are taken out.</p>",
+    "description": "<p>Transformable coffee table from Resource Furniture with a glass top that can be adjusted to reduce space or to accommodate a variety of uses.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/flat-coffee-table.svg"
   },
@@ -597,9 +597,9 @@
     "exhibit-num": "e13",
     "category": "equilibrium",
     "title": "Dezibel Floor Screen",
-    "company": "Zilenzio",
+    "company": "ZilenZio",
     "social": "psfk.com/e13",
-    "description": "<p>The Decibel floor screen is made from sound-absorbing materials to improve room acoustics and can also be used as a room divider or a bulletin board.</p>",
+    "description": "<p>This discreet board from ZilenZio subtly soundproofs an apartment's interior with its mineral wool and fibreboard materials.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/decibel-floor-screen.svg"
   },
@@ -610,7 +610,7 @@
     "title": "Andrea Air Filter",
     "company": "Andrea Air",
     "social": "psfk.com/e14",
-    "description": "<p>The Airocide Air Filter uses technology developed by NASA to eliminate harmful airborne particles that can't be caught by traditional filters.</p>",
+    "description": "<p>Breathe easy with this natural air filtration system that removes airborne toxins with the help of a household plant.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/andrea-air-filter.svg"
   },
@@ -621,7 +621,7 @@
     "title": "Window Socket",
     "company": "Kyuho Song / Boa Oh",
     "social": "psfk.com/e15",
-    "description": "<p>The Window Socket is a portable solar charger that can be attached to any window and used to power small devices on-the-go.</p>",
+    "description": "<p>Designers Kyuho Song and Boa Oh developed this prototype power outlet that attaches to any brightly lit window to generate and store energy from the sun.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/window-socket.svg"
   },
@@ -632,7 +632,7 @@
     "title": "AquaFarm",
     "company": "BTTR Ventures",
     "social": "psfk.com/e16",
-    "description": "<p>The AquaFarm is a closed-loop ecosystem with a fish tank on the bottom and a garden on top, which uses fish waste to fertilize the plants.</p>",
+    "description": "<p>A countertop aquaponics system designed by Back to the Roots that takes care of your home gardening needs with the help of a fishy friend or two.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/aquafarm.svg"
   },
@@ -643,7 +643,7 @@
     "title": "Soma Water Filter",
     "company": "Soma",
     "social": "psfk.com/e17",
-    "description": "<p>The Soma Water Filter is a home water filtration system with a biodegradable filter that is automatically replaced through a subscription service.</p>",
+    "description": "<p>This carafe features a 100% compostable filter made from Malaysian coconut shells to remove contaminants from tap water. New filters get delivered to your door when it's time to replace.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/soma-water-filter.svg"
   },
@@ -652,9 +652,9 @@
     "exhibit-num": "e18",
     "category": "equilibrium",
     "title": "Wormery Composter",
-    "company": "abgc",
+    "company": "ABGC Design",
     "social": "psfk.com/e18",
-    "description": "<p>Composty is an indoor composting bin that uses light and ventilation to speed up the decomposition process and reduce unpleasant odors.</p>",
+    "description": "<p>Harness the power of worms to transform food waste into rich soil and liquid fertilizer with this modular terrace composter from ABGC Design.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/wormery-composter.svg"
   },
@@ -665,7 +665,7 @@
     "title": "Mango Health App",
     "company": "Mango Health",
     "social": "psfk.com/e19",
-    "description": "<p>The Withings Health Mate App creates a visual diary of a user's health through data collected from Withings devices and other health and fitness apps.</p>",
+    "description": "<p>Stay on top of your pill-popping schedule with the help of this gamified health app that reminds you when it's time to take your medications and vitamins.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/mango-health-app.svg"
   },
@@ -676,7 +676,7 @@
     "title": "HAPIfork",
     "company": "Hapilabs",
     "social": "psfk.com/e20",
-    "description": "<p>The HAPIfork is an electronic fork that helps you monitor and track your eating habits by alerting you with gentle vibrations when you are eating too fast.</p>",
+    "description": "<p>This fork looks out for your dietary well-being by vibrating gently when it senses that you're eating too quickly, reminding you to slow down and savor every bite.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/hapifork.svg"
   },
@@ -687,7 +687,7 @@
     "title": "Infinity Bench",
     "company": "Lerival",
     "social": "psfk.com/e21",
-    "description": "<p>The Infinity Bench is a piece of furniture that can be changed from a bench to a table by pulling the wooden slats up or pushing them down.</p>",
+    "description": "<p>Designed by architect Carl Fredrik Svensstedt., this bench gets its organic, undulating shape from flaat sheets of plywood that were cut using CNC technolgy and assembled into their final form.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/infinity-bench.svg"
   },
@@ -698,7 +698,7 @@
     "title": "Bitponics Gardening System",
     "company": "Bitponics",
     "social": "psfk.com/e22",
-    "description": "<p>The Windowfarms hydroponic system allows users to grow their own produce indoors, using a series of vertically-stacked planters that hang in a window.</p>",
+    "description": "<p>Sit back and watch your plants grow with this clound-based garden manager that monitors soil quality and other environmental conditions.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/bitponics-gardening-system.svg"
   }
