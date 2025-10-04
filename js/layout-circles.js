@@ -28,9 +28,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   /**
-   * Creates the circle links dynamically from the fetched data. 
-   */
-/**
    * Creates the circle links dynamically from the fetched data, grouped by category.
    */
   function generateCircles() {
@@ -125,10 +122,14 @@ document.addEventListener('DOMContentLoaded', () => {
         imgElement.alt = item.title;
     }
 
+    const photoContainer = productContent.querySelector('.product-photo');
     if (item.img_product) {
-        const imgElement = productContent.querySelector('.product-photo img');
+        photoContainer.style.display = '';
+        const imgElement = photoContainer.querySelector('img');
         imgElement.src = item.img_product;
         imgElement.alt = item.title;
+    } else {
+        photoContainer.style.display = 'none';
     }
     
 

@@ -45,7 +45,7 @@
     "description": "<p>This urban bicycle by Schindelhauer has hinged bars and pedals to reduce its storage footprint within any living space.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/thinbike.svg",
-    "img_product": "/img/products/photo/thinbike.jpeg"
+    "img_product": ""
   },
   {
     "id": 5,
@@ -69,7 +69,7 @@
     "description": "<p>These lighweight folding chairs from Folditure are designed to easily stack, hang, and store.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/tilt-chair.svg",
-    "img_product": "/img/products/photo/tilt-chair.jpeg"
+    "img_product": ""
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "description": "<p>There when you need it, gone when you don't: a Folditure produced table that reduces down to 3/4 inch thick board.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/cricket-side-table.svg",
-    "img_product": "/img/products/photo/cricket-side-table.jpeg"
+    "img_product": ""
   },
   {
     "id": 8,
@@ -104,7 +104,7 @@
     "description": "<p>Control your home electronics and lights even when you're away. Turn it on, turn it off, put it on a schedule—all from your smartphone</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/belkin-wemo.svg",
-    "img_product": "/img/products/photo/belkin-wemo.jpeg"
+    "img_product": ""
   },
   {
     "id": 10,
@@ -116,7 +116,7 @@
     "description": "<p>Turn these colorful modular soft blocks into beds, sofas, tables, benches, or shelves to suit any mood or space requirement.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/zig-sofa.svg",
-    "img_product": "/img/products/photo/zig-sofa.jpeg"
+    "img_product": ""
   },
   {
     "id": 11,
@@ -140,7 +140,7 @@
     "description": "<p>Set up your work space for a variety of tasks by rearranging the panels in this customizable desktop.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/adaptable.svg",
-    "img_product": "/img/products/photo/adaptable.jpeg"
+    "img_product": ""
   },
   {
     "id": 13,
@@ -164,7 +164,7 @@
     "description": "<p>This wall-mounted desk is designed to be used while standing to reduce the negative effects that sitting can have on your health.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/vurv-wall-decor.svg",
-    "img_product": "/img/products/photo/vurv-wall-decor.jpeg"
+    "img_product": ""
   },
   {
     "id": 15,
@@ -176,7 +176,7 @@
     "description": "<p>These wireless sensor boxes monitor temperature, humidity, noise, and air quality levels in indoor spaces, and send custom data reports.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/cube-sensors.svg",
-    "img_product": "/img/products/photo/cube-sensors.jpeg"
+    "img_product": ""
   },
   {
     "id": 16,
@@ -188,7 +188,7 @@
     "description": "<p>Shift from desktop to easel with this convertible wooden table from Lenovo.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/at-um-table.svg",
-    "img_product": "/img/products/photo/at-um-table.jpeg"
+    "img_product": ""
   },
   {
     "id": 17,
@@ -200,7 +200,7 @@
     "description": "<p>Wired home security system that keeps an eye on your home using a sleek, easy-to-use interface.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/scout-alarm.svg",
-    "img_product": "/img/products/photo/scout-alarm.jpeg"
+    "img_product": ""
   },
   {
     "id": 18,
@@ -212,7 +212,7 @@
     "description": "<p>Divide up large spaces with unique shapes with this system of perforated panels designed by Moorhead & Moorhead</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/modular-screen.svg",
-    "img_product": "/img/products/photo/modular-screen.jpeg"
+    "img_product": ""
   },
   {
     "id": 19,
@@ -224,7 +224,7 @@
     "description": "<p>Go from work to sleep in a single movement with this transformable desk-bed from Resource Furniture that tucks away to become a functioning surface during the day.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/ulisse-desk-bed.svg",
-    "img_product": "/img/products/photo/ulisse-desk-bed.jpeg"
+    "img_product": ""
   },
   {
     "id": 20,
@@ -236,7 +236,7 @@
     "description": "<p>Resource Furniture's space-saving ottoman provides seating for up to five, with removable padded sides that can attach to one of four bases nedted inside the structure.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/cubista-ottoman.svg",
-    "img_product": "/img/products/photo/cubista-ottoman.jpeg"  
+    "img_product": ""
   },
   {
     "id": 21,
@@ -260,7 +260,7 @@
     "description": "<p>When folded for storage, these sleek chairs from Resource Furniture only measure two inches deep, allowing you to keep  plenty on hand to accommodate any sized dinner party.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/pocket-chair.svg",
-    "img_product": "/img/products/photo/pocket-chair.jpeg"
+    "img_product": ""
   },
   {
     "id": 23,
@@ -284,7 +284,7 @@
     "description": "<p>A luxury subscription service that delivers curated products and experiences directly to your door. The latest vollume of home decor items has been curated by design guru The Selby.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/selby.svg",
-    "img_product": "/img/products/photo/selby.jpeg"
+    "img_product": ""
   },
   {
     "id": 25,
@@ -320,7 +320,7 @@
     "description": "<p>Bring nightlife home with this monthly cocktail subscription service.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/julibox.svg",
-    "img_product": "/img/products/photo/julibox.jpeg"
+    "img_product": ""
   },
   {
     "id": 28,
@@ -344,7 +344,7 @@
     "description": "<p>Bring the best beans from roasters around the globe to your doorstep each month.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/craft-coffee-subscription.svg",
-    "img_product": "/img/products/photo/craft-coffee-subscription.jpeg"
+    "img_product": ""
   },
   {
     "id": 30,
@@ -438,7 +438,7 @@
     "description": "<p>Turn anything  from a cereal box to a takeout container into a speaker with a DIY kit from TechnologyWillSaveUs that includes a custom amplifier and all the necessary electronic compoonents.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/diy-speaker.svg",
-    "img_product": "/img/products/photo/diy-speaker.jpeg"
+    "img_product": ""
   },
   {
     "id": 38,
@@ -462,7 +462,7 @@
     "description": "<p>Call on your neighbors to help pick up last-minute groceries like fresh milk and eggs with this community-based shopping service that charges a small fee.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/milk-please.svg",
-    "img_product": "/img/products/photo/milk-please.jpeg"
+    "img_product": ""
   },
   {
     "id": 40,
@@ -474,7 +474,7 @@
     "description": "<p>This high-res, 5200 lumens projector can make your favorite movies and TV life sized. Suitable for both light and dark environments.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/sony-projector.svg",
-    "img_product": "/img/products/photo/sony-projector.jpeg"
+    "img_product": ""
   },
   {
     "id": 41,
@@ -486,7 +486,7 @@
     "description": "<p>Enjoy your music in any room with this Bluetooth speaker that also acts as a speaker phone for work meetings at home.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/jawbone-jambox.svg",
-    "img_product": "/img/products/photo/jawbone-jambox.jpeg"
+    "img_product": ""
   },
   {
     "id": 42,
@@ -546,7 +546,7 @@
     "description": "<p>This WiFi-enabled sensor measures soil, moisture, sunlight intensity, temperature and fertilizer needs to keep your plants extra green.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/koubachi-plant-monitor.svg",
-    "img_product": "/img/products/photo/koubachi-plant-monitor.jpeg"
+    "img_product": ""
   },
   {
     "id": 47,
@@ -570,7 +570,7 @@
     "description": "<p>Arm cuff syncs with a mobile device to help you monitor your health and stress-levels at home.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/withings-pressure-monitor.svg",
-    "img_product": "/img/products/photo/withings-pressure-monitor.jpeg"
+    "img_product": ""
   },
   {
     "id": 49,
@@ -582,7 +582,7 @@
     "description": "<p>Track your activity levels and sleep patterns with this writband that logs all pertinent data in a connect smartphone app.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/jawbone-up.svg",
-    "img_product": "/img/products/photo/jawbone-up.jpeg"
+    "img_product": ""
   },
   {
     "id": 50,
@@ -594,7 +594,7 @@
     "description": "<p>A modular, wall-mounted system with magnetic pots, which can be used for vertical gardening or small space organization.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/urbio-wall-storage-system.svg",
-    "img_product": "/img/products/photo/urbio-wall-storage-system.jpeg"
+    "img_product": ""
   },
   {
     "id": 51,
@@ -630,7 +630,7 @@
     "description": "<p>This concept design would wash your clothes without water or detergent, reducing environmental waste and saving natural resources.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/lg-waterless-washing-machine.svg",
-    "img_product": "/img/products/photo/lg-waterless-washing-machine.jpeg"
+    "img_product": ""
   },
   {
     "id": 54,
@@ -642,7 +642,7 @@
     "description": "<p>Transformable coffee table from Resource Furniture with a glass top that can be adjusted to reduce space or to accommodate a variety of uses.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/flat-coffee-table.svg",
-    "img_product": "/img/products/photo/flat-coffee-table.jpeg"
+    "img_product": ""
   },
   {
     "id": 55,
@@ -654,7 +654,7 @@
     "description": "<p>This discreet board from ZilenZio subtly soundproofs an apartment's interior with its mineral wool and fibreboard materials.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/decibel-floor-screen.svg",
-    "img_product": "/img/products/photo/decibel-floor-screen.jpeg"
+    "img_product": ""
   },
   {
     "id": 56,
@@ -699,7 +699,7 @@
     "title": "Soma Water Filter",
     "company": "Soma",
     "social": "psfk.com/e17",
-    "description": "<p>The Soma water filtering carafe is an innovative approach to water purification. Like its plastic counterparts, this filter removes chlorine, heavy metals, and other contaminants from tap water, but instead of filtering through plastic, it is made of a compostable, food-based PLA composite, carbon granules derived from Malaysian coconut shells, and a special layer of vegan silk that adds to the filtration process.  The filter, designed from the ground up by David Beeman, is fully biodegradable and designed to provide a unique, crisp taste. The traditional carafe shape, made from decanter-quality glass, is both elegant and ergonomically sound, while its sustainable composition can help to cut down on the nearly 38 billion water bottles that are discarded annually.</p>",
+    "description": "<p>The Soma water filtering carafe is an innovative approach to water purification. Like its plastic counterparts, this filter removes chlorine, heavy metals, and other contaminants from tap water, but instead of filtering through plastic, it is made of a compostable, food-based PLA composite, carbon granules derived from Malaysian coconut shells, and a special layer of vegan silk that adds to the filtration process. The filter, designed from the ground up by David Beeman, is fully biodegradable and designed to provide a unique, crisp taste. The traditional carafe shape, made from decanter-quality glass, is both elegant and ergonomically sound, while its sustainable composition can help to cut down on the nearly 38 billion water bottles that are discarded annually.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/soma-water-filter.svg",
     "img_product": "/img/products/photo/soma-water-filter.jpeg"
@@ -714,7 +714,7 @@
     "description": "<p>Harness the power of worms to transform food waste into rich soil and liquid fertilizer with this modular terrace composter from ABGC Design.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/wormery-composter.svg",
-    "img_product": "/img/products/photo/wormery-composter.jpeg"
+    "img_product": ""
   },
   {
     "id": 61,
@@ -726,7 +726,7 @@
     "description": "<p>Stay on top of your pill-popping schedule with the help of this gamified health app that reminds you when it's time to take your medications and vitamins.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/mango-health-app.svg",
-    "img_product": "/img/products/photo/mango-health-app.jpeg"
+    "img_product": ""
   },
   {
     "id": 62,
@@ -750,7 +750,7 @@
     "description": "<p>Designed by architect Carl Fredrik Svensstedt., this bench gets its organic, undulating shape from flaat sheets of plywood that were cut using CNC technolgy and assembled into their final form.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/infinity-bench.svg",
-    "img_product": "/img/products/photo/infinity-bench.jpeg"
+    "img_product": ""
   },
   {
     "id": 64,
