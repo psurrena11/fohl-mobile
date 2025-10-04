@@ -90,8 +90,7 @@
     "title": "Peg Furniture System",
     "company": "Studio Gorm",
     "social": "psfk.com/a8",
-    "description": "<p>These easily assembled tables and chairs from Studio Grom can be stored flat along a wall-mounted peg rail, to save space eand provide an aesthetic wall installation.</p>",
-    "buy": 1,
+    "description": "<p>Peg is a self-assembly kit made up of simple components, which can be assembled in a variety of ways to accommodate a multitude of scenarios. The flexible furniture system includes tables and chairs that can be easily disassembled, using no tools or fasteners. All of the pieces can be hung on a pegboard mounted on the wall, so the room can be made completely bare when needed. The furniture is built from wooden pieces constructed out of Douglas Fir, laminated chipboard, upholstery and metal rods.</p>", "buy": 1,
     "img_illustration": "/img/products/illustration/peg-furniture-system.svg",
     "img_product": "/img/products/photo/peg-furniture-system.jpeg"
   },
@@ -126,7 +125,7 @@
     "title": "Hue Bulb",
     "company": "Philips",
     "social": "psfk.com/a11",
-    "description": "<p>Set the mood with these multi-color LED bulbs that are controlled via your smartphone.</p>",
+    "description": "<p>Electronics manufacturer Philips has developed Hue, a new webenabled LED system that allows users to remotely control their lighting from a mobile application. Each Hue kit contains three bulbs that are able to fit into any standard socket, and a bridge that connects them through wireless routers. Users will be able to control the Hue by iOS or Android phones, allowing them to customize their home lighting experiences, change the Hue’s color to a myriad of options, and manage daily schedules for maximum efficiency.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/philips-hue.svg",
     "img_product": "/img/products/photo/philips-hue.jpeg"
@@ -150,7 +149,7 @@
     "title": "Milkmaid Smart Jug",  
     "company": "Quirky",
     "social": "psfk.com/a13",
-    "description": "<p>Get a text message when your milk goes bad or is simply running low with this sensor-enabled jug being considered for production by Quirky.</p>",
+    "description": "<p>Milkmaid is a sensor-laden milk jug by crowdsourcing design company, Quirky, that sends SMS messages to owners when milk supplies are almost out or have gone off. Stored inside the fridge, the quart-sized glass container sits on a plastic base containing weight, temperature and pH sensors, a GSM radio module, SIM card and antenna. Monitoring both milk quantity and food safety conditions, the base texts a predesignated mobile number whenever more milk should be picked up at the store. A corresponding iPhone app provides instant access to milk supply information at any time.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/milkmaid-smart-jug.svg",
     "img_product": "/img/products/photo/milkmaid-smart-jug.jpeg"
@@ -246,7 +245,7 @@
     "title": "Goliath Table",
     "company": "Resource Furniture",
     "social": "psfk.com/a21",
-    "description": "<p>The collapsible frame of this table from Resource Furniture fits all your dining needs, from Thanksgiving with family to a quiet meal for two.</p>",
+    "description": "<p>Resource Furniture continues to redefine the possibilities of urban living with a line of space-saving furnishings hand-selected for their ability to transform a space with both beauty and functionality.  Pieces like the Goliath console/dining table extend from 17” to 115” utilizing an embedded telescoping mechanism. When paired with the company’s Pocket chairs, which are only 2″ deep when folded, a homeowner could easily accommodate a dinner party for eight.  The Cubista ottoman provides seating for up to five individuals, with removable padded sides that can attach to one of four bases nested inside the structure. Resource Furniture’s goal is to change the way consumers and designers think about space.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/goliath-table.svg",
     "img_product": "/img/products/photo/goliath-table.jpeg"
@@ -270,7 +269,7 @@
     "title": "1.6 SM of Life Desk-Bed",
     "company": "Studio NL",
     "social": "psfk.com/a23",
-    "description": "<p>Catch forty winks while pulling an all-nighter with this transformable space-saving, sleep-saving desk-bed from Sutdio NL.</p>",
+    "description": "<p>The a is a convertible desk-bed that houses an area for rest and restoration underneath its work surface. Created by Greek designer Athanasia Leivaditou of Studio NL, the convertible desk-bed looks similar to a typical long rectangular work table—only that the desktop slides out and the side panel opens to reveal a bed underneath.  The inspiration for the piece came from the creator observing her classmates placing chairs together to rest during all-nighters, but takes the idea a step further with its convertible space- saving design.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/life-desk-bed.svg",
     "img_product": "/img/products/photo/life-desk-bed.jpeg"
@@ -294,7 +293,7 @@
     "title": "GetArtUp Service",
     "company": "GetArtUp",
     "social": "psfk.com/d2",
-    "description": "<p>Refresh your walls every six months with this art subscription service that rents out original works from contemporary artists.</p>",
+    "description": "<p>Getartup is an art subscription service offering an affordable way for people to decorate their empty walls while also increasing awareness around contemporary artists. The web-based marketplace allows patrons to browse a diverse gallery of contemporary artwork just as they would a retail site, sorted by size, type, or color of art. Clicking on a certain piece of art reveals the cost of renting it for a month, or buying it outright. If shoppers choose to rent a piece of art, a free swap is included after six months whereby they can select a new piece to hang on their wall. The service’s sharing model allows almost anyone to have a different piece of locally-created, contemporary art on their wall each month for far less than it would cost to own.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/get-art-up.svg",
     "img_product": "/img/products/photo/get-art-up.jpeg"
@@ -306,7 +305,7 @@
     "title": "Hello Fresh Delivery",
     "company": "Hello Fresh",
     "social": "psfk.com/d3",
-    "description": "<p>Manage work, social lives, and meal preparation with boxes of freash, pre-measured ingredients that arrive at your doorstep, along with recipes for healthy dishes.</p>",
+    "description": "<p>Hello Fresh is a food subscription service which delivers pre-measured ingredients of chef-curated meals to its subscribers’ doorsteps every week to make creating tasty, healthy meals at home as effortless as possible. Every week, the site lets subscribers peruse five new recipes created by professional chefs and nutritionists. Each recipe is designed to take 30 minutes or less to prepare, requires basic kitchen equipment, and comes with step-by-step instructions. Each preprepared box also includes all of the ingredients measured out to the exact amounts needed. Hello Fresh also operates a ‘soft subscription’ service, which means users choose how many meals they would like a week and for how many people.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/hello-fresh-delivery.svg",
     "img_product": "/img/products/photo/hello-fresh-delivery.jpeg"
@@ -328,9 +327,9 @@
     "exhibit-num": "d5",
     "category": "on-demand",
     "title": "Individual Bibliotherapy",
-    "company": "The School of LIfe",
+    "company": "The School of Life",
     "social": "psfk.com/d5",
-    "description": "<p>Tailored reading lists created from an hour-long consultation with an artist, novelist, and bookstore owner.</p>",
+    "description": "<p>Bibliotherapy is a prescription reading service from the London-based cultural enterprise The School of Life that offers curated reading lists tailored to an individual’s struggles or personal situation. Patrons of the service book one-hour assessments with The School of Life for an in-person, telephone or Skype session with a well-read advisory team composed of an artist, a novelist and an independent bookstore owner. Instant prescriptions of recommended fiction, poetry and creative non-fiction are given at the end of the consultation, with a full prescription following within a few days.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/individual-bibliotherapy.svg",
     "img_product": "/img/products/photo/individual-bibliotherapy.jpeg"
@@ -353,7 +352,7 @@
     "title": "Everything But The Manual Furniture System",
     "company": "David Graas",
     "social": "psfk.com/d7",
-    "description": "<p>These 177 identical oak building blocks concepted by designer David Graas can be screwed together to make almost anything.</p>",
+    "description": "<p>Everything But The Manual is modular furniture kit developed by Dutch designer David Graas that arrives as a cube comprised of 177 identical oak building blocks that can be screwed together to make almost anything imaginable. The flexibility of the system combined with its ease of assembly make it accessible for makers of all skills, while still challenging them to create and build their own designs without the use of a manual. The designer has suggested three designs of his own—a dressing table, lamp and cuckoo clock—which he hopes will inspire countless other DIY creations.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/everything-but-the-manual.svg",
     "img_product": "/img/products/photo/everything-but-the-manual.jpeg"
@@ -376,7 +375,7 @@
     "title": "PLAiR Dongle",
     "company": "PlAiR",
     "social": "psfk.com/d9",
-    "description": "<p>Watch any mobile device or somputer content on your TV with this wifi-enabled dongle that allows for easy sharing.</p>",
+    "description": "<p>Plair is a handheld, portable device used to stream media from a mobile phone, tablet or computer wirelessly onto a television screen. Connectable to any TV with a USB port, the device is a Wi-Fi enabled USB dongle that can connect any smartphone to any television through an iOS or Android app. Users can view photos and videos stored on their phone, or in the cloud, including YouTube, CollegeHumor clips, CNN, and Vimeo. Its portable design allows users to take it with them wherever they go, immediately plug it to a display and stream content through their phone.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/plair.svg",
     "img_product": "/img/products/photo/plair.jpeg"
@@ -388,7 +387,7 @@
     "title": "Printrbot",
     "company": "Printrbot",
     "social": "psfk.com/d10",
-    "description": "<p>Easy-to-use desktop 3D printer that could help you create all those extra things you need for your apartment.</p>",
+    "description": "<p>Printrbot is a desktop 3D printer that can be assembled in a few hours.  The all-in-one 3D printer uses fused deposition modeling to produce plastic models of 3D objects. Users input a design on their computer, and the printer deposits layer upon layer of material until it replicates the object in its entirety. The device is aimed at beginner home users through its small size and simple interface, enabling users to make just about anything they like, from iPad stands to home fixtures and jewelry. The units, which range in size, retail for $299 and up.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/printrbot.svg",
     "img_product": "/img/products/photo/printrbot.jpeg"
@@ -400,7 +399,7 @@
     "title": "Matterform 3D Scanner",
     "company": "Matterform",
     "social": "psfk.com/d11",
-    "description": "<p>Place any physical object onthis 3D scanner and watch it take shape on your computer screen.</p>",
+    "description": "<p>The Photon 3D is a lightweight, portable 3D scanner that can scan physical objects and create digital files ready for 3D printing. Created by Matterform, the Photon allows anyone to take a physical object and turn it into a digital 3D model on your computer. From there, users can print their file on any 3D printer or online printing service, or use the model you created in an animation or video game. It’s lightweight, portable, and compact, making it easy to integrate into any home workspace. The product, which was successfully backed on crowdfunding site Indiegogo, will retail for approximately $575.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/matterform.svg",
     "img_product": "/img/products/photo/matterform.jpeg"
@@ -412,7 +411,7 @@
     "title": "WunWun",
     "company": "WunWun",
     "social": "psfk.com/d12",
-    "description": "<p>Need a light fixture built? WunWun finds people who will come t your home an do it for you.</p>",
+    "description": "<p>WunWun is a new service and iOS app that gives members access to a network of live dispatchers and super-local ‘helpers’ that can perform nearly any task imaginable. Members can ask for a delivery of most items and pay a flat $15 delivery fee, request a service (like ‘walk my dog’ or ‘organize my closet’) that costs $2 for every five minutes or ask for advice, which is totally free. Once a request is made, a dispatcher assigns it to one of WunWun’s helpers who have been background checked and trained to respond to requests around them. The company, whose name stands for ‘what you need, when you need it,’ hopes to create local, on-demand networks that generate an array of information and assistance that you could never find using search engines like Google.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/wunwun.svg",
     "img_product": "/img/products/photo/wunwun.jpeg"
@@ -422,9 +421,9 @@
     "exhibit-num": "d13",
     "category": "on-demand",
     "title": "Arduino Starter Kit",
-    "company": "TechnologyWillSaveUs",
+    "company": "Technology Will Save Us",
     "social": "psfk.com/d13",
-    "description": "<p>This instructional kit from TechnologyWillSaveUs helps you build interactive electronic objects for your home.</p>",
+    "description": "<p>London-based community workshop and DIY retailer Technology Will Save Us has designed a number of at-home instructional kits that walk users through the basics of using Arduino, an open-source electronic prototyping platform for creating interactive electronic objects, in a hands-on way. The project-focused kits include a selection of the most common and useful electronic components, which can be used to build fun DIY objects like speakers and light-up sunglasses. Accompanying instruction manuals walk users through the basics of electronics, helping users to better control the physical world using sensors and actuators and eventually opening the door to more complex projects. Once users have mastered the knowledge, they’ll have a palette of software and circuits that can be used to create something unique.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/arduino-starter-kit.svg",
     "img_product": "/img/products/photo/arduino-starter-kit.jpeg"
@@ -446,9 +445,9 @@
     "exhibit-num": "d15",
     "category": "on-demand",
     "title": "Little Printer",
-    "company": "Berg",
+    "company": "BERG",
     "social": "psfk.com/va9",
-    "description": "<p>This desktop printing device from Berg generates receipt-size newspapers with personal updates, fun facts, and puzzles throughout the day.</p>",
+    "description": "<p>London-based design studio BERG has created a small device called the Little Printer that prints out personalized, receipt-sized paper strips with news, puzzles, social network updates and information from apps. The device wirelessly connects to the web via an included Bridge unit and uses a person’s phone to configure settings and subscriptions to different publications. It gathers content throughout the day until the owner decides to print. The Little Printer then creates a personalized print-out in black and white.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/little-printer.svg",
     "img_product": "/img/products/photo/little-printer.jpeg"
@@ -496,7 +495,7 @@
     "title": "Fan TV",
     "company": "fantv",
     "social": "psfk.com/vad",
-    "description": "<p>The next-generation set-top box combines TV, DVR, VOD, and streaming servcies all through one sleek interface, and comes with a pebble-like touch pad.</p>",
+    "description": "<p>Fan TV is a next-generation set-top box which allows viewers to combine TV, DVR, VOD, and streaming services all into one device.  Launched by IDEO startup Fanhattan, the device is controlled using swipe and tap gestures on a pebble-like, touchpad remote control designed to be used without having to look at it. Its content will be derived from partnerships with pay TV services and the nearly 30 online providers that it currently supports on its Fanhattan app for iPads and other Apple devices. The elegant device was designed by Yves Behar, and aims to simplify the TV viewing experience into a single interface.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/fan-tv.svg",
     "img_product": "/img/products/photo/fan-tv.jpeg"
@@ -520,7 +519,7 @@
     "title": "Pétale Lamp",
     "company": "Luceplan",
     "social": "psfk.com/e2",
-    "description": "<p>This organic-shaped lamp from Luceplan is made with sound absorbingn foam and fabrics to help muffle ambient noise and create peaceful environments.</p>",
+    "description": "<p>Petale’ is a lighting system that combines home decor with high sound absorption to create quiet, private environments in any space. Created by designer Monica Armani, the lamps are made with sound-absorbing foam and fabrics to help muffle ambient sound.  The corrugated trimming around the outside of each lamp helps to minimize noise and prevent sounds from bouncing around rooms.  The lamps are created specifically to combine quality of light with acoustic comfort and beautiful design.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/petale-lamp.svg",
     "img_product": "/img/products/photo/petale-lamp.jpeg"
@@ -556,7 +555,7 @@
     "title": "Smart Body Analyzer Scale",
     "company": "Withings",
     "social": "psfk.com/e5",
-    "description": "<p>WiFi-connected scale helps you track your weight, BMI, and body fat over time automatically sending results to a digital dashboard.</p>",
+    "description": "<p>Withings, an early entrant in the connected health products and apps market with its original Wi-Fi-enabled scale, is expanding its suite of connected products and services with two devices that further provide a big picture view on an individual’s health: the Withings Smart Activity Tracker and the Withings Smart Body Analyzer. The Smart Activity Tracker is a small device carried in the user’s pocket or on their waistband that tracks activity, heart rate and sleep patterns.  The Withings Smart Body Analyzer is a Wi-Fi-enabled scale that checks weight, BMI and body fat, as well as indoor air quality. Used in combination, heart rate can be measured by stepping on the scale in the morning and logged at any time during the day using the activity tracker. Both devices are Wi-Fi and Bluetooth-equipped to sync health data with the cloud via the Withings iPhone or Android app.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/smart-body-analyzer-scale.svg",
     "img_product": "/img/products/photo/smart-body-analyzer-scale.jpeg"
@@ -604,7 +603,7 @@
     "title": "Smart Mirror",
     "company": "Mingzherpoh",
     "social": "psfk.com/e9",
-    "description": "<p>This mirror prototype by eletrical engineer Ming-Zher Poh measures your heartrate as you stand in front of it, making it easier to take control of your health.</p>",
+    "description": "<p>Ming-Zher Poh, an electrical engineer in the Affective Computing Group at the MIT Media Lab, has developed a mirror that is able to monitor vital signs and show the inner health of the person standing in front of it. When your heart beats, it sends a pulse of blood through your blood vessels and to your face. Because blood absorbs light, the mirror is able to use a simple webcam, the same as the one found in your smartphone, to record the fluctuation in reflected light coming off your skin. Although the change in brightness is minute, the data can then be translated into a heart-rate reading via algorithm, and the results are instantly displayed right before a person’s eyes, empowering individuals to take the management of their wellness into their own hands.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/smart-mirror.svg",
     "img_product": "/img/products/photo/smart-mirror.jpeg"
@@ -616,7 +615,7 @@
     "title": "EcoVéa Shower",
     "company": "Reveeco",
     "social": "psfk.com/e10",
-    "description": "<p>An ecological smart shower system from Reveeco that filters dirty water and sends it back to the shower head for re-use, reducing waste and water expenditure.</p>",
+    "description": "<p>The EcoVéa shower system by bathroom designers Reveeco delivers up to 80% water and energy savings by showering the user in a loop of filtered, treated and reused water. To ensure that the head water is clean, used water is collected in a floor drain and sorted by an analytic cell that drains dirty away and directs clean water through three stages of filtering. Replacing imprecise faucets with an electronic panel, water temperature and pressure are set to the user’s preference. Pipes are drained after each use, activating an automatic cleaning cycle that maintains cleanliness and extends the lifespan of the system.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/ecovea-shower.svg",
     "img_product": "/img/products/photo/ecovea-shower.jpeg"
@@ -676,7 +675,7 @@
     "title": "Window Socket",
     "company": "Kyuho Song / Boa Oh",
     "social": "psfk.com/e15",
-    "description": "<p>Designers Kyuho Song and Boa Oh developed this prototype power outlet that attaches to any brightly lit window to generate and store energy from the sun.</p>",
+    "description": "<p>The Window Socket is a concept device that attaches to any window to harness solar energy and transfer that energy into an internal battery.  Designed by Kyuho Song and Boa Oh, the concept incorporates a simple suction cup that allows it to attach to any window and put its built-in solar panels to work. Users can then plug in any device to the outlet on the front or save the energy for later use. The portable product lets users take advantage of solar energy to power up a device on the go without needing to find an outlet.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/window-socket.svg",
     "img_product": "/img/products/photo/window-socket.jpeg"
@@ -736,7 +735,7 @@
     "title": "HAPIfork",
     "company": "Hapilabs",
     "social": "psfk.com/e20",
-    "description": "<p>This fork looks out for your dietary well-being by vibrating gently when it senses that you're eating too quickly, reminding you to slow down and savor every bite.</p>",
+    "description": "<p>The Hapifork is a Bluetooth-enabled eating utensil that offers realtime data and haptic feedback to emphasize the importance of eating at a moderate pace. The fork contains a built-in sensor that vibrates to indicate when a user is eating too fast, while actively collecting data around the pace of consumption which can be accessed through a web or mobile dashboard. For example, the Hapifork could clue eaters into the fact that they tend to eat their breakfast too fast, or that they overeat at dinner. The connected fork aims to help people eat healthier, slower meals and consume less.</p>",
     "buy": 1,
     "img_illustration": "/img/products/illustration/hapifork.svg",
     "img_product": "/img/products/photo/hapifork.jpeg"
