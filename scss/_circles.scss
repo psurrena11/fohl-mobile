@@ -26,6 +26,7 @@
             font-size: 1.5em;
             padding: v.$sp_xsm v.$sp_sm;
             border-radius: v.$border-radius;
+            opacity: 0.7;
 
             &:hover {
                 color: v.$accent;
@@ -35,6 +36,7 @@
             &.active {
                 color: v.$accent;
                 background-color: v.$light-grey;
+                opacity: 1;
             }
         }
     }

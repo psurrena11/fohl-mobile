@@ -28,6 +28,34 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   /**
+   * Nav - add active class to clicked link and remove from others
+   */
+  document.addEventListener('DOMContentLoaded', () => {
+  const links = document.querySelectorAll('#circle-nav a');
+
+  if (links.length > 0) {
+    links[0].classList.add('active');
+  }
+
+  console.log(links);
+
+  // 2. Create a function to handle the click.
+  function handleLinkClick(e) {
+
+    links.forEach(link => {
+      link.classList.remove('active');
+    });
+
+    e.target.classList.add('active');
+  }
+
+  // 3. Attach the click event listener to each link.
+  links.forEach(link => {
+    link.addEventListener('click', handleLinkClick);
+  });
+});
+
+  /**
    * Creates the circle links dynamically from the fetched data, grouped by category.
    */
   function generateCircles() {
