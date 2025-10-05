@@ -66,6 +66,12 @@ document.addEventListener('DOMContentLoaded', () => {
         circlesContainer.appendChild(header);
         */
 
+      // add id to empty span for anchor link
+       const catanchor = document.createElement('span');
+       catanchor.id=category;
+       circlesContainer.appendChild(catanchor);
+       //console.log(catanchor);
+
         const description = document.createElement('p');
         if (category === 'adaptive') {
           description.textContent = 'Four key trends are driving the development of highly configurable homes, which use customizable solutions to adapt to the flexible demands of urban lifestyles.';

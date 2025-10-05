@@ -35,28 +35,38 @@
 
     // The 'X' close button inside the panel
     #top {
-        position: fixed;
-        top: 0;
-        left: 0;
-    }
+      position: fixed;
+      top: 0;
+      left: 0;
 
-    #close-panel-btn {
-        position: absolute;
-        top: 15px;
-        right: 20px;
-        background: none;
-        border: none;
-        font-size: 28px;
-        line-height: 1;
-        cursor: pointer;
-        color: v.$dark-grey;
-        
-        &:hover {
-            color: v.$accent
-        }
+      #close-panel-btn {
+          position: absolute;
+          top: 15px;
+          right: 20px;
+          background: none;
+          border: none;
+          font-size: 28px;
+          line-height: 0;
+          width: 36px;
+          height: 36px;
+          cursor: pointer;
+          color: v.$dark-grey;
+          background-color: v.$very-light-grey;
+          border-radius: 50%;
+          border-color: v.$med-grey;
+          
+          &:hover {
+              color: v.$accent
+          }
+      }
     }
 }
 
+p.category-description {
+  font-family: v.$serif;
+  font-size: 1.35em;
+  line-height: 1.4;
+}
 
 // --- ACTIVE STATE ---
 
