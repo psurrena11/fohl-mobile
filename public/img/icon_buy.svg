@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 130.54 40.8">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke-width: 1.5px;
+      }
+
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st0, .st1, .st2 {
+        stroke: #663695;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st3 {
+        fill: #663695;
+      }
+
+      .st1 {
+        stroke-width: 2px;
+      }
+
+      .st4 {
+        isolation: isolate;
+      }
+
+      .st5 {
+        display: none;
+      }
+
+      .st2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Layer_11" data-name="Layer_1" class="st5">
+    <image class="st4" width="112" height="43" transform="translate(-36.76 34.13) scale(.98)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHIAAAAtCAYAAAByBT9fAAAACXBIWXMAAAthAAALYQFbeSumAAAG0ElEQVR4nO1cW3MURRTumZ3ZWy6QDQmLJHINgSwkAYFwSVECWgWlwoMvFpZ/RH+Br/rgpXyzSi1LXkyBhUTBMlylNFBgDCAEgbAhhJDrZnfn4ov0Od8Jm/JFq5jq7+n0fj09vXOmz+nuc3qUMogErKfCrf67oQoCIkJRMWZBOeHGtDw1MwNcMpXQsl/CdkJFDVsK24y59vyO/YMgpOt8LwDOjtF1oY8dtx3ZEpXDEOtarKqtKsPz8Lq6VTVaXrR4MVZmz1TFYkqQol2P7m/LuuqZnJtMKq9YtJynP3zy/ilVVZWkDtXG4eK5ogdlm/3rchk75DCFuHHsULnka7nEZKWUsmxq03UrP0pfKotdZ1sL1+Uly8LKNntZXQfvX5gta/nJ5Cxwud303N468hpw8Wp6qeemCsAlqxJQdhz+zPHZBPyFUPOVvNCLZ/AcwSgyIjCKjAi0j9x/aKPavfNFTVjCDIu5j3LTCVYX34ewSP6kJHwU9xmhj751bpbNjIT/cqzKkxSOeX0R9wCucjPKFj6yPEf/6dEE+sgvPv5eyyeOXgVu8/ZmLfuB8Ndi8rNoSYrk+irRH0ctBDMiIwKjyIhAj9ede1aqdGNN5ZpiXv/rhX4t37s9Bly6KqvlmmW4kNyQyxFXg+bDqSHTIs2n7VReV3EEHk7b/+11Sinll8l8xlwXuBSTa1U9cFs66T+dPvk7cGXmLlZvWArcw8dooqcLj6nuuhXAdW5j5WeYWTMiIwKjyIjAKDIi0MbWdiyYDvs++hpVxnJfzy0tt61fBdyyxeRRrl1G/5kfuKblw293AlcYpy2sdCaN9w99Vm8OOea/U9W4tRiUyliVLU9GxnCPeGkDmyN46NvDkK6bzU8AN8OWFXX1OM8IitTv9h3NwNlV6L8fjFB/+k5cAc5h3Wljy0Td1rxfDJ5LGEVGBNq0ykiALMsoQn1dg5Zbc43ALW8lLj+KZtBiy4rJkUngzp6hJc2+Azvw/mxZcaznN+DiCYrMNDfhFL+zqxXKl84NaXl8ahy4/fs7tGzb+I4PXc1rue/0AHCbu1q0vKurCbjPPjiu5Zbzy4Dr2LsWytnGai2/cXgbcD1f0bNZs/kFJWFGZERgFBkRGEVGBNpHBp6vQp7qYaGOAxHNz4/SdtKpXuTCn2mbanJsGrit29u0XJrGpcFofoo6FsdtKI9F6GMeRtYbsuSj7ww+BK69HZcRQ9eHtbxyLfoanmkwNDAKXC9bDkxP4HxhqkD/sW3LOuByufVaPvvTLeDWbcXlSLya+pqsrQWukW2fXrl8Q0mYERkRGEVGBLSzY2HgUyZ82Qn8oTFLEYDOLTjlzm1bruUb/Q+Au9p/X8t1mSRwMxNkWkKxk+S6ZGqHh3G36PVDZK6/vY4m8ceeP6BsBfTutq1vUJWQEP83s4QiNWncPFJuEpcxHMkktVMS2XeJNEZYuDfjGXVKKZVhO11OjeiAMiMyMjCKjAiMIiMC7XgcN6EcFk0vi0j79DRGs+fK5M/yoyKKMELT8YlJ3KKbLZDtb2zADIHMEvJZ/ef+wvsX6R7FMib62knyn9171wD36UffQbn71S4tywiLxyI+2ZWYMf5ygrIA7t15AlxHF2VEPBhE/33h4m0tv/lOF3AyeyFkTtIRGfIFv6hlfwx1oZQZkZGBUWREoG2SVyopJ6SAsBOT0+9FUG5rp12J/CPcTentI7O4vA6jEQfZUiGzOgPcpnEKUN+8eVf0lMz1KwdeAmpmhsy8J1xC3VI03x2dLAIhc2dhVo/t1GapnY6mOuACljt79Ote4FpayOx27MaEKk8Er22H5QqLTOKmFRQZuXQRl1RKmREZGRhFRgRGkREBRT+KHhwuLbHprlJKJVyMRuzct1rLdgwj3ZBAK5K4+BkKmfTcyiLfrSIKbrP7zz7B5cfwQ/LRl85eBG7Xng4oZ5rI15eEP42x8x4y+sPPTkrf+sMxikbcvX8HuPfePVLxOpmFwA++huL+2WbytfV/YvKXUmZERgZGkRGBHuvnj/8S5ro3aiKWEOfrQzRnVoFFLkSkILTJLAcemui4Qzsm5QBNRCpBy5FJsSMUT9GOUAxOYijlhcxcT+F1idpqKM8VyJzGUuguSiwxzJZmkD2OwUGMsHz+4RktHzyAgeV9bLk1L8FNuKtCiYL1KRf7rXz2nQTWl3hNtfKKRcuMyIjAKDIiMIqMCLSRPvnlgDr9zU1NpFMYvQ7FsWmX+cVyUR7vZt/Skd9L+Y/hiO8BBaJrPEF63slz9oPvy2/gUNkXy5ZNe2hvr70bz8HY7sJHxjmSDku4Ev5UsWYs83kWAwMDg/8DfwMA3wWDeISDnAAAAABJRU5ErkJggg=="/>
+  </g>
+  <g id="Layer_2">
+    <polyline class="st1" points="1.21 1.06 1.21 39.71 81.7 39.71 91.86 26.19 91.86 14.33 81.7 1.06 2.64 1.06 1.21 1.06"/>
+    <circle class="st0" cx="84.95" cy="20.38" r="3.58"/>
+    <path class="st2" d="M84.95,20.76c5.52-10.14,10.54-12.62,14.21-12.91,7.31-.58,11.73,7.37,20.14,6.45,4.63-.5,8.14-3.44,10.35-5.8"/>
+    <g>
+      <path class="st3" d="M12.63,10.69h8.56c2.18,0,3.9.6,4.99,1.69.84.84,1.28,1.91,1.28,3.16v.05c0,2.29-1.31,3.52-2.73,4.25,2.23.76,3.79,2.04,3.79,4.63v.05c0,3.41-2.81,5.23-7.06,5.23h-8.83V10.67v.02ZM24.1,16.09c0-1.5-1.2-2.43-3.35-2.43h-4.82v5.07h4.58c2.15,0,3.6-.84,3.6-2.59v-.05h0ZM21.24,21.57h-5.31v5.23h5.56c2.26,0,3.68-.9,3.68-2.62v-.05c0-1.61-1.28-2.56-3.92-2.56h0Z"/>
+      <path class="st3" d="M32,21.68v-10.98h3.35v10.85c0,3.54,1.83,5.42,4.82,5.42s4.8-1.77,4.8-5.29v-10.98h3.35v10.82c0,5.7-3.22,8.56-8.2,8.56s-8.12-2.86-8.12-8.39h0Z"/>
+      <path class="st3" d="M58.54,22.25l-7.58-11.56h3.98l5.31,8.42,5.4-8.42h3.84l-7.58,11.47v7.6h-3.38v-7.52h0Z"/>
+    </g>
+  </g>
+</svg>

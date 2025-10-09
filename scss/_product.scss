@@ -9,7 +9,6 @@
 
         img {
             width: 80%;
-            
         }
     }
 
@@ -20,20 +19,39 @@
         border-bottom: 1px solid v.$med-grey;
         padding: 0 0 v.$sp_md;
 
-
         h1 {
             font-size: 2em;
             font-weight: 600;
             margin: 0;
         }
 
-        ul {
+        .product_details {
             display: grid;
-            grid-template-columns: repeat(3, min-content);
-            grid-gap: v.$sp_sm;
-            list-style: none;
-            padding: 0;
-            margin: 0;
+            grid-template-columns: auto auto;
+        
+            .left {
+                ul {
+                    display: grid;
+                    grid-template-columns: repeat(3, min-content);
+                    grid-gap: v.$sp_sm;
+                    list-style: none;
+                    padding: 0;
+                    margin: 0;
+
+                    .company {
+                        color: v.$accent;
+                        font-weight: 600;
+                    }
+                }
+            }
+
+            .right {
+                text-align: right;
+
+                img {
+                    width: 35%;
+                }
+            }
         }
     }
 
