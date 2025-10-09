@@ -34,7 +34,7 @@
 
                 ul {
                     display: grid;
-                    grid-template-columns: repeat(3, auto);
+                    grid-template-columns: repeat(3, min-content);
                     grid-gap: v.$sp_sm;
                     list-style: none;
                     padding: 0;
@@ -47,9 +47,13 @@
 
                     .social_wrapper {
                         display: grid;
-                        grid-template-columns: 1fr 1fr;
+                        grid-template-columns: repeat(2, max-content);
                         grid-gap: v.$sp_xsm;
                         align-items: center;
+                        
+                        a {
+                           color: v.$accent; 
+                        }
 
                         img {
                             width: 20px;
