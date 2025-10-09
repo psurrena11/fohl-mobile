@@ -1,0 +1,40 @@
+@use "variables" as v;
+
+#list-view {
+    &.hidden {
+        display: none;
+    }
+
+    .list-item {
+        display: flex;
+        align-items: center;
+        padding: v.$sp_sm v.$sp_md;
+        border-bottom: 1px solid v.$light-grey;
+        background-color: v.$white;
+
+        &:hover {
+            background-color: v.$very-light-grey;
+        }
+
+        .list-item-illustration {
+            width: 50px;
+            height: 50px;
+            margin-right: v.$sp_md;
+            object-fit: contain;
+        }
+
+        .list-item-title {
+            flex-grow: 1;
+            font-size: 1.1em;
+        }
+
+        .list-item-arrow {
+            font-size: 1.5em;
+            color: v.$accent;
+        }
+    }
+}
+
+#circles.hidden {
+    display: none;
+}
