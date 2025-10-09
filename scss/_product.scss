@@ -27,12 +27,14 @@
 
         .product_details {
             display: grid;
-            grid-template-columns: auto auto;
+            grid-template-columns: auto min-content;
+            align-items: center;
         
             .left {
+
                 ul {
                     display: grid;
-                    grid-template-columns: repeat(3, min-content);
+                    grid-template-columns: repeat(3, auto);
                     grid-gap: v.$sp_sm;
                     list-style: none;
                     padding: 0;
@@ -42,14 +44,24 @@
                         color: v.$accent;
                         font-weight: 600;
                     }
+
+                    .social_wrapper {
+                        display: grid;
+                        grid-template-columns: 1fr 1fr;
+                        grid-gap: v.$sp_xsm;
+                        align-items: center;
+
+                        img {
+                            width: 20px;
+                        }
+                    }
                 }
             }
 
             .right {
                 text-align: right;
-
                 img {
-                    width: 35%;
+                    width: 70px;
                 }
             }
         }

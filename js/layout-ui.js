@@ -12,6 +12,33 @@ document.addEventListener('DOMContentLoaded', () => {
     const hamburgerIcon = document.querySelector('.toggle_list');
     const categoryLinks = document.querySelectorAll('#circle-nav a');
 
+    // --- START: SWIPE-TO-CLOSE LOGIC ---
+    const slidingPanel = document.getElementById('sliding-panel');
+    let touchStartY = 0;
+    let touchEndY = 0;
+
+    // Function to handle the swipe gesture
+    function handleSwipe() {
+        // Check if the swipe was downwards and long enough
+        if (touchEndY > touchStartY + 100) { // 100px threshold
+        closePanel();
+        }
+    }
+
+    // Add touch event listeners to the panel
+    slidingPanel.addEventListener('touchstart', (e) => {
+        // Get the initial touch position
+        touchStartY = e.changedTouches[0].screenY;
+    }, { passive: true }); // Use passive listener for better scroll performance
+
+    slidingPanel.addEventListener('touchend', (e) => {
+        // Get the final touch position
+        touchEndY = e.changedTouches[0].screenY;
+        handleSwipe();
+    });
+
+    // --- END: SWIPE-TO-CLOSE LOGIC ---
+
     // --- CORE FUNCTIONS ---
 
     async function initializeApp() {
@@ -163,7 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         productContent.querySelector('h1').textContent = item.title;
         productContent.querySelector('.company').textContent = item.company;
-        productContent.querySelector('.social').textContent = item.social;
+        //productContent.querySelector('.social').textContent = item.social;
         productContent.querySelector('.description-text').innerHTML = item.description;
         
         const illustrationImg = productContent.querySelector('.product-illustration img');
