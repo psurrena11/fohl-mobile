@@ -7,8 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const panelOverlay = document.getElementById('panel-overlay');
   const closeBtn = document.getElementById('close-panel-btn');
   const productContent = document.querySelector('.product-content');
-  const gridIcon = document.querySelector('.left a:nth-child(1)');
-  const hamburgerIcon = document.querySelector('.left a:nth-child(2)');
+  const gridIcon = document.querySelector('.toggle_circles');
+  const hamburgerIcon = document.querySelector('.toggle_list');
 
   // --- CORE FUNCTIONS ---
 
