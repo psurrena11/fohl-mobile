@@ -36,8 +36,27 @@ document.addEventListener('DOMContentLoaded', () => {
         touchEndY = e.changedTouches[0].screenY;
         handleSwipe();
     });
-
     // --- END: SWIPE-TO-CLOSE LOGIC ---
+
+    // Set grid icon as active by default on page load
+    gridIcon.classList.add('active');
+
+    // Function to handle clicks on either icon
+    function handleNavIconClick(event) {
+        event.preventDefault(); // Prevent the link from navigating
+
+        // Remove 'active' class from both icons
+        navIcons.forEach(icon => icon.classList.remove('active'));
+
+        // Add 'active' class to the one that was clicked
+        // event.currentTarget refers to the element the listener was attached to (the <a> tag)
+        event.currentTarget.classList.add('active');
+    }
+
+    // Attach the click event listener to both icons
+    navIcons.forEach(icon => {
+        icon.addEventListener('click', handleNavIconClick);
+    });
 
     // --- CORE FUNCTIONS ---
 

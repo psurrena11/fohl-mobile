@@ -16,6 +16,7 @@
         display: grid;
         grid-template-rows: repeat(3, min-content);
         grid-gap: v.$sp_sm;
+        align-items: center;
         border-bottom: 1px solid v.$med-grey;
         padding: 0 0 v.$sp_md;
 
