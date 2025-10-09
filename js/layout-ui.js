@@ -222,9 +222,16 @@ document.addEventListener('DOMContentLoaded', () => {
         openPanel();
     }
     
-    const openPanel = () => panelOverlay.classList.add('is-visible');
-    const closePanel = () => panelOverlay.classList.remove('is-visible');
+    const openPanel = () => {
+        panelOverlay.classList.add('is-visible');
+        document.body.classList.add('no-scroll'); // Prevent background scroll
+    }
     
+    const closePanel = () => {
+        panelOverlay.classList.remove('is-visible');
+        document.body.classList.remove('no-scroll'); // Re-enable background scroll
+    }
+
     function setupPanelListeners() {
         closeBtn.addEventListener('click', closePanel);
         panelOverlay.addEventListener('click', (event) => {
