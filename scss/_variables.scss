@@ -25,7 +25,8 @@ $border-radius: 8px;
 $thumb_width: 250px;
 $thumb_height: 200px;
 
-$panel-top-gap: 100px;
+$panel-top-gap: $sp_xl;
+
 $transition-speed: 0.3s;
 
 $text-max-width: 700px;
