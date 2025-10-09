@@ -12,6 +12,7 @@
   visibility: hidden;
   opacity: 0;
   transition: opacity v.$transition-speed ease, visibility 0s v.$transition-speed;
+  z-index: 10;
 }
 
 // Panel
@@ -26,7 +27,7 @@
     color: v.$black;
     padding: v.$sp_md;
 
-    @include m.drop-shadow;
+    @include m.drop-shadow($y: -5px);
   
     // Start off-screen at the bottom
     transform: translateY(100%);
@@ -35,25 +36,25 @@
 
     // The 'X' close button inside the panel
     #top {
-      position: fixed;
-      top: 0;
-      left: 0;
+      /*
+        position: fixed;
+        top: 0;
+        left: 0;
+      */
 
       #close-panel-btn {
           position: absolute;
           top: 15px;
-          right: 20px;
+          left: 20px;
           background: none;
           border: none;
-          font-size: 28px;
+          font-size: 48px;
+          font-weight: 100;
           line-height: 0;
           width: 36px;
           height: 36px;
           cursor: pointer;
           color: v.$dark-grey;
-          background-color: v.$very-light-grey;
-          border-radius: 50%;
-          border-color: v.$med-grey;
           
           &:hover {
               color: v.$accent
