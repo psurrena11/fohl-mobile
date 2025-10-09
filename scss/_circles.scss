@@ -1,6 +1,12 @@
 @use "variables" as v;
 @use "mixins" as m;
 
+.circles_wrapper {
+    &.hidden {
+        display: none;
+    }
+}
+
 #circle-nav {
     position: fixed;
     top: 60px;
@@ -85,7 +91,4 @@
         border-color: v.$light-grey;
     }
     
-    &.hidden {
-        display: none;
-    }
 }

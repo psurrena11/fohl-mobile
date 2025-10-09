@@ -36,16 +36,11 @@
 
     // The 'X' close button inside the panel
     #top {
-      /*
-        position: fixed;
-        top: 0;
-        left: 0;
-      */
 
       #close-panel-btn {
           position: absolute;
           top: 15px;
-          left: 20px;
+          left: 10px;
           background: none;
           border: none;
           font-size: 48px;

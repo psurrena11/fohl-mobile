@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- GLOBAL VARIABLES ---
     let itemsData = [];
+    const circlesWrapper = document.querySelector('.circles_wrapper');
     const circlesContainer = document.getElementById('circles');
     const listViewContainer = document.getElementById('list-view');
     const panelOverlay = document.getElementById('panel-overlay');
@@ -87,13 +88,13 @@ document.addEventListener('DOMContentLoaded', () => {
     function setupViewToggleListeners() {
         gridIcon.addEventListener('click', (e) => {
             e.preventDefault();
-            circlesContainer.classList.remove('hidden');
+            circlesWrapper.classList.remove('hidden');
             listViewContainer.classList.add('hidden');
         });
 
         hamburgerIcon.addEventListener('click', (e) => {
             e.preventDefault();
-            circlesContainer.classList.add('hidden');
+            circlesWrapper.classList.add('hidden');
             listViewContainer.classList.remove('hidden');
         });
     }

@@ -5,6 +5,8 @@
         display: none;
     }
 
+    margin: v.$sp_xl 0 0;
+
     .list-item {
         display: flex;
         align-items: center;
@@ -33,8 +35,8 @@
             color: v.$accent;
         }
     }
-}
 
-.circles_wrapper.hidden {
-    display: none;
+    &.hidden {
+        display: none;
+    }
 }
