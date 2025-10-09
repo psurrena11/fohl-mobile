@@ -31,13 +31,17 @@
             &:hover {
                 color: v.$accent;
                 background-color: v.$light-grey;
+                opacity: 1;
+                font-weight: 500!important;
             }
 
             &.active {
                 color: v.$accent;
                 background-color: v.$light-grey;
                 opacity: 1;
+                font-weight: 500!important;
             }
+            
         }
     }
 }
@@ -72,10 +76,6 @@
 
             &:hover {
                 box-shadow: none;
-            }
-
-            &:active {
-                // soon
             }
         }
     }

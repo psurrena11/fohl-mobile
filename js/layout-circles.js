@@ -3,15 +3,15 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- GLOBAL VARIABLES ---
   let itemsData = []; // To store the fetched data
   const circlesContainer = document.getElementById('circles');
+  const listViewContainer = document.getElementById('list-view');
   const panelOverlay = document.getElementById('panel-overlay');
   const closeBtn = document.getElementById('close-panel-btn');
   const productContent = document.querySelector('.product-content');
+  const gridIcon = document.querySelector('.left a:nth-child(1)');
+  const hamburgerIcon = document.querySelector('.left a:nth-child(2)');
 
   // --- CORE FUNCTIONS ---
 
-  /**
-   * Fetches data, then builds the UI and sets up event listeners.
-   */
   async function initializeApp() {
     try {
       const response = await fetch('/data.json');
@@ -19,7 +19,9 @@ document.addEventListener('DOMContentLoaded', () => {
       itemsData = await response.json();
 
       generateCircles();
+      generateListView(); // New function call
       setupPanelListeners();
+      setupViewToggleListeners(); // New function call
 
     } catch (error) {
       console.error("Could not initialize the application:", error);
@@ -54,6 +56,54 @@ document.addEventListener('DOMContentLoaded', () => {
     link.addEventListener('click', handleLinkClick);
   });
 });
+
+function setupViewToggleListeners() {
+    const gridIcon = document.querySelector('.toggle_circles');
+    const hamburgerIcon = document.querySelector('.toggle_list');
+
+    gridIcon.addEventListener('click', (e) => {
+        e.preventDefault();
+        circlesContainer.classList.remove('hidden');
+        listViewContainer.classList.add('hidden');
+    });
+
+    hamburgerIcon.addEventListener('click', (e) => {
+        e.preventDefault();
+        circlesContainer.classList.add('hidden');
+        listViewContainer.classList.remove('hidden');
+    });
+}
+
+function generateListView() {
+    listViewContainer.innerHTML = ''; // Clear existing content
+    itemsData.forEach(item => {
+        const listItem = document.createElement('a');
+        listItem.href = '#';
+        listItem.className = 'list-item';
+        listItem.dataset.exhibit = item['exhibit-num'];
+
+        const illustration = document.createElement('img');
+        illustration.src = item.img_illustration || 'https://placehold.it/100x100';
+        illustration.alt = item.title;
+        illustration.className = 'list-item-illustration';
+
+        const title = document.createElement('span');
+        title.textContent = item.title;
+        title.className = 'list-item-title';
+
+        const arrow = document.createElement('span');
+        arrow.className = 'list-item-arrow';
+        arrow.innerHTML = '&#8250;';
+
+        listItem.appendChild(illustration);
+        listItem.appendChild(title);
+        listItem.appendChild(arrow);
+        
+        listItem.addEventListener('click', handleCircleClick); // Reuse the same handler
+
+        listViewContainer.appendChild(listItem);
+    });
+  }
 
   /**
    * Creates the circle links dynamically from the fetched data, grouped by category.
